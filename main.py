@@ -304,18 +304,14 @@ def add_tournament(tournament, bid):
 
 def write_to_csv(elosList):
     '''write the rankings to the csv'''
-    add = "Rank,School,Name,Elo,Bids\n"
+    add = "Rank,School,Name,Elo\n"
     counter = 0
     for team, eloSchool in elosList:
         elo, school = eloSchool[0], eloSchool[1]
         counter += 1
         name = " ".join(team.split())
-        if name in bidList:
-            bids = bidList[name]
-        else:
-            bids = 0
         
-        add += str(counter) + "," + school + "," + name + "," + str(round(elo*1000)/1000) + ",{}\n".format(bids)
+        add += str(counter) + "," + school + "," + name + "," + str(round(elo*1000)/1000) + "\n"
         
     with open("Documents/Debate/SideBias/LDRankings.csv", "w") as fp:
         fp.write(add[:-1])
@@ -324,9 +320,9 @@ def write_to_csv(elosList):
 add_tournament("Loyola", 4)
 add_tournament("SeasonOpener", 4)
 add_tournament("Grapevine", 4)
-add_tournament("Yale", 2)
+add_tournament("Yale", 4)
 add_tournament("MidAmericaCup", 8)
-add_tournament("JackHowe", 4)
+add_tournament("JackHowe", 2)
 add_tournament("Greenhill", 8)
 
 negPercent = negWs/rounds
