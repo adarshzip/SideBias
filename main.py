@@ -22,6 +22,11 @@ def entry_dict(tournament):
     
     for team in teams:
         school, name = team[1], team[0]
+        if name == "Michael Meng":
+            if "Lawrenceville" in school:
+                name = "Michael Meng (Lawrenceville)"
+            else:
+                name = "Michael Meng (Strake)"
         outputDict[school] = [name, school]
     
     print("Processed entries for " + tournament)    
