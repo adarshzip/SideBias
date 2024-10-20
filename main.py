@@ -101,7 +101,52 @@ def roundDict(tournament, date):
             school2 = team2[1]
             id2 = team2[2]    
             roundCSV += tournament + "," + name1 + "," + school1 + "," + str(id1) + "," + name2 + "," + school2 + "," + str(id2) + "," + str(date) + "\n"
+
+    files = glob.glob("Documents/Debate/SideBias/" + tournament + "/Elims/*.csv")
+    if len(files) == 0:
+        raise Exception("Error in reading elims from {}".format(tournament))
+    
+    for file in files:
+        file = open(file, "r", encoding="Latin-1")
+        lines = file.readlines()[1:]
+        
+        for line in lines:
             
+            line = line.split(",")
+            
+            try:
+                team1, team2, judge, votes, result = tuple(line[0:5])
+            except:
+                continue
+            
+            result = result.lower()
+            votes = votes.lower()
+            
+            try:
+                margin, result = tuple(result[1:-2].split())
+            except:
+                continue
+            
+            if "bye" in result or "BYE" in team1 or "BYE" in team2 or "BYE" in judge or "bye" in margin:
+                continue
+            
+            if "neg" in result or "con" in result or "aff" not in votes:
+                team1, team2 = team2, team1  # team 1 is the winning team
+
+            try:
+                team1, team2 = unifiedEntriesDict[team1], unifiedEntriesDict[team2]
+            except:
+                continue
+            
+            name1 = team1[0]
+            school1 = team1[1]
+            id1 = team1[2]
+            name2 = team2[0]
+            school2 = team2[1]
+            id2 = team2[2]  
+            roundCSV += tournament + "," + name1 + "," + school1 + "," + str(id1) + "," + name2 + "," + school2 + "," + str(id2) + "," + str(date) + "\n"            
+            
+    
 def roundDictCSV():
     global roundCSV
     
@@ -122,7 +167,6 @@ def skeloElo():
     ).fit(df, labels)
     
     eloRankings = model.rating_model.to_frame()
-    
     filterDate = eloRankings['valid_to'].isnull()
     eloRankings = eloRankings[filterDate]
     eloRankings = eloRankings.drop(labels='valid_from', axis=1)
@@ -131,7 +175,6 @@ def skeloElo():
     eloRankings.index += 1
     
     eloRankings['schoolcol'] = eloRankings['key'].map(unifiedByName)
-    
     eloRankings.to_csv('Documents/Debate/SideBias/elorerank.csv')
     
 def skeloGlicko():
@@ -159,6 +202,7 @@ def skeloGlicko():
     eloRankings.drop(labels='rating', axis=1, inplace=True)
     eloRankings.rename(columns={'rating2' : 'rating'}, inplace=True)
     eloRankings = eloRankings.sort_values(by='rating', ascending=False).reset_index(drop=True)
+    eloRankings.index += 1
     
     eloRankings.to_csv('Documents/Debate/SideBias/glickorank.csv')
     
@@ -284,6 +328,7 @@ def scuffedGlickoElims(tournament, teamsDict, elos_dict, bid):
                 continue
             
             result = result.lower()
+            votes = votes.lower()
             
             try:
                 margin, result = tuple(result[1:-2].split())
@@ -296,7 +341,7 @@ def scuffedGlickoElims(tournament, teamsDict, elos_dict, bid):
             rounds += 1
             elims += 1
             
-            if "neg" in result or "con" in result:
+            if "neg" in result or "con" in result or "aff" not in result:
                 team1, team2 = team2, team1  # team 1 is the winning team
                 negWs += 1
                 elimNegWs += 1
@@ -376,51 +421,6 @@ def scuffedGlickoElims(tournament, teamsDict, elos_dict, bid):
         file.close()
     return elos_dict
 
-bParam = 0
-
-def eloAdjustedWinElims(tournament, teamsDict, elos_dict, bid): # will work on later.
-    
-    global bParam
-    
-    files = glob.glob("Documents/Debate/SideBias/" + tournament + "/Elims/*.csv")
-    if len(files) == 0:
-        raise Exception("Error in reading elims from {}".format(tournament))
-    
-    for file in files:
-        file = open(file, "r", encoding="Latin-1")
-        lines = file.readlines()[1:]
-        
-        for line in lines:
-            line = line.split(",")
-            try:
-                team1, team2, judge, votes, result = tuple(line[0:5])
-            except:
-                continue
-            
-            result = result.lower()
-            
-            try:
-                margin, result = tuple(result[1:-2].split())
-            except:
-                continue
-            
-            if "bye" in result or "BYE" in team1 or "BYE" in team2 or "BYE" in judge or "bye" in margin:
-                continue
-            
-            team1, team2 = teamsDict[team1], teamsDict[team2] #this line for no school names
-
-            elo_team1 = elos_dict[team1[0]][0]
-            
-            elo_team2 = elos_dict[team2[0]][0]
-            
-            incidentB = np.log(-0.8)
-            
-            
-            
-        file.close()
-    return elos_dict
-
-
 def add_tournament(tournament, bid, date):
     '''adds a tournament to the rankings'''
     dictionary = entry_dict(tournament)
@@ -453,6 +453,8 @@ add_tournament("JackHowe", 2, 20240928)
 add_tournament("Greenhill", 8, 20240919)
 add_tournament("NanoNagle", 4, 20241012) 
 add_tournament("DTA", 2, 20241012)
+add_tournament("JWPatterson", 1, 20241018)
+add_tournament("Bronx", 8, 20241018)
 
 negPercent = negWs/rounds
 negElimPercent = elimNegWs/elims

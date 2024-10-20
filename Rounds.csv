@@ -350,6 +350,36 @@ Loyola,Olivia Ohr,Marlborough OO,100067,Oliver Tan,Riverside Independent OT,1001
 Loyola,Lavi Avigad,Amador Valley LA,100001,Zhaohua Chen,St Francis ZC,100113,20240830
 Loyola,Ruby Albert,Brentwood RA,100009,Nilesh Mudupalli,Lynbrook NM,100054,20240830
 Loyola,Austin Loui,Peninsula AL,100088,Sophia Moreno,Marlborough SM,100073,20240830
+Loyola,Iva Liu,OCSA IL,100085,Sterling Utovac,Peninsula SU,100099,20240830
+Loyola,Iva Liu,OCSA IL,100085,William Liu,Harvard-Westlake WL,100032,20240830
+Loyola,Sterling Utovac,Peninsula SU,100099,Ethan Yang,Monta Vista EY,100078,20240830
+Loyola,Iva Liu,OCSA IL,100085,Ava Moon,Flower Mound AM,100017,20240830
+Loyola,William Liu,Harvard-Westlake WL,100032,Timothy Jiang,Brophy TJ,100010,20240830
+Loyola,Abby Merges,Marlborough AM,100058,Aaron Yi,Peninsula AY,100090,20240830
+Loyola,Sterling Utovac,Peninsula SU,100099,Amanda Yu,Stanford OHS AY,100114,20240830
+Loyola,Iva Liu,OCSA IL,100085,Shiwen Huang,Riverside Independent SH,100110,20240830
+Loyola,William Liu,Harvard-Westlake WL,100032,Vikrant Vadathavoor,Lynbrook VV,100056,20240830
+Loyola,Abby Merges,Marlborough AM,100058,Salma Gheith,Horace Greeley SG,100034,20240830
+Loyola,Aaron Yi,Peninsula AY,100090,Benjamin Weiner,Oakwood BW,100084,20240830
+Loyola,Timothy Jiang,Brophy TJ,100010,Bolang Zhu,Lynbrook BZ,100053,20240830
+Loyola,Ava Moon,Flower Mound AM,100017,Om Modi,Lynbrook OM,100055,20240830
+Loyola,Ethan Yang,Monta Vista EY,100078,Abhinav Kasturi,Los Altos AK,100049,20240830
+Loyola,Sterling Utovac,Peninsula SU,100099,August Sone,Harvard-Westlake AS,100022,20240830
+Loyola,Iva Liu,OCSA IL,100085,Rory Baskin,Marlborough RB,100070,20240830
+Loyola,William Liu,Harvard-Westlake WL,100032,Brian Son,Peninsula BS,100091,20240830
+Loyola,Salma Gheith,Horace Greeley SG,100034,Shawn Lo,Peninsula SL,100098,20240830
+Loyola,Benjamin Weiner,Oakwood BW,100084,Olivia Ohr,Marlborough OO,100067,20240830
+Loyola,Timothy Jiang,Brophy TJ,100010,Andy Hou,Westlake AH,100124,20240830
+Loyola,Om Modi,Lynbrook OM,100055,Micah Byron-Smarra,Waring MB,100122,20240830
+Loyola,Ethan Yang,Monta Vista EY,100078,Cooper Brody,Renaissance CB,100107,20240830
+Loyola,Abhinav Kasturi,Los Altos AK,100049,Kaison Maruyama,Harvard-Westlake KM,100026,20240830
+Loyola,Ava Moon,Flower Mound AM,100017,Albert Cai,Barrington AC,100004,20240830
+Loyola,Bolang Zhu,Lynbrook BZ,100053,Luke Schooler,L C Anderson LS,100046,20240830
+Loyola,Aaron Yi,Peninsula AY,100090,Emma Sobel,Immaculate Heart ES,100040,20240830
+Loyola,Abby Merges,Marlborough AM,100058,Nathaniel Watkins,L C Anderson NW,100047,20240830
+Loyola,Vikrant Vadathavoor,Lynbrook VV,100056,Christopher Liu,Valley Christian CL,100121,20240830
+Loyola,Shiwen Huang,Riverside Independent SH,100110,Taejun Kim,BASIS Scottsdale TK,100006,20240830
+Loyola,Aarnav Agrawal,Monta Vista AA,100077,Amanda Yu,Stanford OHS AY,100114,20240830
 SeasonOpener,Jonah Kim,ModernBrain JK,100283,Lilah Hopper-Hedges,Theodore Roosevelt LH,100344,20240907
 SeasonOpener,Laura Huang,Carnegie Vanguard LH,100156,Flynn Williams,Harrison FW,100207,20240907
 SeasonOpener,Jasmine Shao,Riverside Independent JS,100323,Sid Sharma,Elkins SS,100015,20240907
@@ -1090,6 +1120,93 @@ SeasonOpener,Siddharth Vedam,Dougherty Valley SV,100177,Ansh Shamdasani,Montvill
 SeasonOpener,Vihaan Patel,BASIS Silicon Valley VP,100145,Judah Carpenter,West Des Moines Valley JC,100366,20240907
 SeasonOpener,Adrienne Wang,Village AW,100358,Matthew Wang,Mission San Jose MW,100282,20240907
 SeasonOpener,Bryan Fu,Mercer Island Independent BF,100271,Conan Matos,American Heritage Broward CM,100134,20240907
+SeasonOpener,Jack Borman,Harrison JB,100208,Chloe Wolf,American Heritage Broward CW,100135,20240907
+SeasonOpener,Brooke Gemechu,Hawken BG,100222,Kaison Maruyama,Harvard-Westlake KM,100026,20240907
+SeasonOpener,Jack Borman,Harrison JB,100208,Selina Zhang,Village SZ,100361,20240907
+SeasonOpener,Brooke Gemechu,Hawken BG,100222,Vikrant Vadathavoor,Lynbrook VV,100056,20240907
+SeasonOpener,Kaison Maruyama,Harvard-Westlake KM,100026,Rowan MacLean,Clear Lake RM,100163,20240907
+SeasonOpener,Mirei Saneyoshi,Lexington MS,100250,Chloe Wolf,American Heritage Broward CW,100135,20240907
+SeasonOpener,Jack Borman,Harrison JB,100208,Jordan Brown,Delores Taylor Arthur School for Young Men JB,100169,20240907
+SeasonOpener,Brooke Gemechu,Hawken BG,100222,Jason Kuo,BASIS Silicon Valley JK,100007,20240907
+SeasonOpener,Kaison Maruyama,Harvard-Westlake KM,100026,Isaac Love,Flintridge Prep IL,100016,20240907
+SeasonOpener,Chloe Wolf,American Heritage Broward CW,100135,Aditya Shetty,Southlake Carroll AS,100337,20240907
+SeasonOpener,Mirei Saneyoshi,Lexington MS,100250,Jack Gessner,Harrison JG,100209,20240907
+SeasonOpener,Rowan MacLean,Clear Lake RM,100163,Anderson Hendrix,Northland Christian AH,100301,20240907
+SeasonOpener,Vikrant Vadathavoor,Lynbrook VV,100056,Taejun Kim,BASIS Scottsdale TK,100006,20240907
+SeasonOpener,Selina Zhang,Village SZ,100361,Ronald Qiao,Phillips Exeter Independent RQ,100102,20240907
+SeasonOpener,Jack Borman,Harrison JB,100208,Vishal Surya,Seven Lakes VS,100330,20240907
+SeasonOpener,Brooke Gemechu,Hawken BG,100222,William Covington,Arizona Chandler WC,100003,20240907
+SeasonOpener,Kaison Maruyama,Harvard-Westlake KM,100026,Liam McDonald,Northland Christian LM,100303,20240907
+SeasonOpener,Chloe Wolf,American Heritage Broward CW,100135,Flynn Williams,Harrison FW,100207,20240907
+SeasonOpener,Jack Gessner,Harrison JG,100209,Noah Arthur,Equality Independent NA,100190,20240907
+SeasonOpener,Anderson Hendrix,Northland Christian AH,100301,August Sone,Harvard-Westlake AS,100022,20240907
+SeasonOpener,Vikrant Vadathavoor,Lynbrook VV,100056,Ezana Haile,Lakeville South EH,100243,20240907
+SeasonOpener,Ronald Qiao,Phillips Exeter Independent RQ,100102,Erin Jia,Memorial EJ,100269,20240907
+SeasonOpener,Selina Zhang,Village SZ,100361,Emilio Garza,Clear Springs EG,100164,20240907
+SeasonOpener,Taejun Kim,BASIS Scottsdale TK,100006,Ryan Chang,Plano West RC,100320,20240907
+SeasonOpener,Rowan MacLean,Clear Lake RM,100163,Landon Stull,West Des Moines Valley LS,100368,20240907
+SeasonOpener,Mirei Saneyoshi,Lexington MS,100250,Andrew Gaffin,Harrison AG,100204,20240907
+SeasonOpener,Aditya Shetty,Southlake Carroll AS,100337,Timothy Jiang,Brophy TJ,100010,20240907
+SeasonOpener,Isaac Love,Flintridge Prep IL,100016,Chloe Shao,Memorial CS,100268,20240907
+SeasonOpener,Jason Kuo,BASIS Silicon Valley JK,100007,Shiwen Huang,Riverside Independent SH,100110,20240907
+SeasonOpener,Jordan Brown,Delores Taylor Arthur School for Young Men JB,100169,Anshul Sharma,University AS,100350,20240907
+SeasonOpener,Vishal Surya,Seven Lakes VS,100330,Aarnav Agrawal,Monta Vista AA,100077,20240907
+SeasonOpener,William Covington,Arizona Chandler WC,100003,Winston Chou,San Marino WC,100328,20240907
+SeasonOpener,Liam McDonald,Northland Christian LM,100303,Allison Liu,Lexington AL,100247,20240907
+SeasonOpener,Chloe Wolf,American Heritage Broward CW,100135,Max Gu,Memorial MG,100270,20240907
+SeasonOpener,Jack Gessner,Harrison JG,100209,Benjamin Weiner,Oakwood BW,100084,20240907
+SeasonOpener,August Sone,Harvard-Westlake AS,100022,Miles Kshatriya,Clear Lake MK,100162,20240907
+SeasonOpener,Ezana Haile,Lakeville South EH,100243,Noah Reardon,Edina NR,100186,20240907
+SeasonOpener,Erin Jia,Memorial EJ,100269,Fahim Jahingir,Jordan FJ,100235,20240907
+SeasonOpener,Selina Zhang,Village SZ,100361,Jaylen Hilario-Peralta,Berkeley Carroll JH,100149,20240907
+SeasonOpener,Ryan Chang,Plano West RC,100320,Yihe Chen,Sharks Independent YC,100336,20240907
+SeasonOpener,Landon Stull,West Des Moines Valley LS,100368,Veronica Zhang,Vestavia Hills VZ,100357,20240907
+SeasonOpener,Mirei Saneyoshi,Lexington MS,100250,Johnny Stumpff,Altamont JS,100131,20240907
+SeasonOpener,Timothy Jiang,Brophy TJ,100010,Laura Huang,Carnegie Vanguard LH,100156,20240907
+SeasonOpener,Chloe Shao,Memorial CS,100268,Ella Min,Tri-Valley Coalition EM,100346,20240907
+SeasonOpener,Shiwen Huang,Riverside Independent SH,100110,Lucy Shi,Harvard-Westlake LS,100028,20240907
+SeasonOpener,Anshul Sharma,University AS,100350,Rishil Nettam,William G. Enloe RN,100372,20240907
+SeasonOpener,Jordan Brown,Delores Taylor Arthur School for Young Men JB,100169,Chloe Zhou,Germantown CZ,100201,20240907
+SeasonOpener,Jason Kuo,BASIS Silicon Valley JK,100007,Adeena Naeem,Harrison AN,100206,20240907
+SeasonOpener,Isaac Love,Flintridge Prep IL,100016,Harly Liu,Monta Vista HL,100079,20240907
+SeasonOpener,Aditya Shetty,Southlake Carroll AS,100337,Daniel Baek,Harvard-Westlake DB,100023,20240907
+SeasonOpener,Andrew Gaffin,Harrison AG,100204,Amanda Yu,Stanford OHS AY,100114,20240907
+SeasonOpener,Rowan MacLean,Clear Lake RM,100163,Reanna Mohler,Woodlands Independent RM,100374,20240907
+SeasonOpener,Taejun Kim,BASIS Scottsdale TK,100006,Felicity Zhang,Concord Carlisle FZ,100166,20240907
+SeasonOpener,Ronald Qiao,Phillips Exeter Independent RQ,100102,Aarav Mahendru,Lamar Highschool Independent AM,100244,20240907
+SeasonOpener,Vikrant Vadathavoor,Lynbrook VV,100056,Angel Ribo,Plano West AR,100319,20240907
+SeasonOpener,Anderson Hendrix,Northland Christian AH,100301,Dariia Chugueva,Awty International DC,100139,20240907
+SeasonOpener,Noah Arthur,Equality Independent NA,100190,Neel Aparanji,Lake Highland Prep NA,100241,20240907
+SeasonOpener,Flynn Williams,Harrison FW,100207,Serena Blutter,Altamont SB,100132,20240907
+SeasonOpener,Kaison Maruyama,Harvard-Westlake KM,100026,Brendan Finnegan,Wayzata BF,100363,20240907
+SeasonOpener,Brooke Gemechu,Hawken BG,100222,Ethan Chen,Dawson independent EC,100168,20240907
+SeasonOpener,Jack Borman,Harrison JB,100208,Ruby Simon,Sehome RS,100329,20240907
+SeasonOpener,Angel Ribo,Plano West AR,100319,Harris James,Midtown HJ,100273,20240907
+SeasonOpener,Ronald Qiao,Phillips Exeter Independent RQ,100102,Lillian Curtis,Charlottesville LC,100158,20240907
+SeasonOpener,Kale Hildebrandt,Neenah KH,100296,Oliver Li,Gabrielino OL,100019,20240907
+SeasonOpener,Felicity Zhang,Concord Carlisle FZ,100166,Theo Khakoo,Equality Independent TK,100192,20240907
+SeasonOpener,Rowan MacLean,Clear Lake RM,100163,Victor Kang,ADL VK,100130,20240907
+SeasonOpener,Andrew Gaffin,Harrison AG,100204,Saharsh Madullapalli,Wilcox SM,100371,20240907
+SeasonOpener,Harly Liu,Monta Vista HL,100079,Justin Ding,Riverside Independent JD,100322,20240907
+SeasonOpener,Adeena Naeem,Harrison AN,100206,Aayush Gandhi,Dublin HS Independent AG,100014,20240907
+SeasonOpener,Chloe Zhou,Germantown CZ,100201,Kyson Bloomingdale,Millard North KB,100276,20240907
+SeasonOpener,Rishil Nettam,William G. Enloe RN,100372,Micah Byron-Smarra,Waring MB,100122,20240907
+SeasonOpener,Lucy Shi,Harvard-Westlake LS,100028,Aidan Haya,Oak Ridge Independent AH,100083,20240907
+SeasonOpener,Ella Min,Tri-Valley Coalition EM,100346,Vincent Wang,Brophy VW,100153,20240907
+SeasonOpener,Timothy Jiang,Brophy TJ,100010,Evan Chen,Shady Side EC,100332,20240907
+SeasonOpener,Mirei Saneyoshi,Lexington MS,100250,Julia Thomas,Harvard-Westlake JT,100024,20240907
+SeasonOpener,Veronica Zhang,Vestavia Hills VZ,100357,Jamie Hao,Northland Christian JH,100302,20240907
+SeasonOpener,Yihe Chen,Sharks Independent YC,100336,Sreekarthikeya Kankanala,Papaya Valley SK,100313,20240907
+SeasonOpener,Jaylen Hilario-Peralta,Berkeley Carroll JH,100149,Rebecca Clark,Clark Independent RC,100161,20240907
+SeasonOpener,Fahim Jahingir,Jordan FJ,100235,Aaron Situ,Gabrielino AS,100018,20240907
+SeasonOpener,Noah Reardon,Edina NR,100186,Mina Hu,Vestavia Hills MH,100355,20240907
+SeasonOpener,Miles Kshatriya,Clear Lake MK,100162,Plamen Checketts,Midtown PC,100275,20240907
+SeasonOpener,Benjamin Weiner,Oakwood BW,100084,Aidan Lishner,Neenah AL,100293,20240907
+SeasonOpener,Chloe Wolf,American Heritage Broward CW,100135,Cameron Simmons,Little Rock Central CS,100253,20240907
+SeasonOpener,Allison Liu,Lexington AL,100247,Solomon Schwartzman,Charlottesville SS,100159,20240907
+SeasonOpener,Winston Chou,San Marino WC,100328,Ellis Yang,Los Altos EY,100256,20240907
+SeasonOpener,Aarnav Agrawal,Monta Vista AA,100077,Ajay Krishnan,Acton-Boxborough AK,100126,20240907
+SeasonOpener,Kaison Maruyama,Harvard-Westlake KM,100026,Jack Borman,Harrison JB,100208,20240907
 Grapevine,Oliver Zhang,Strake Jesuit  OZ,100494,Dylan Carey,Isidore Newman DC,100436,20240913
 Grapevine,Aditya Shetty,Southlake Carroll AS,100337,Taro Porschke,Christopher Columbus TP,100160,20240913
 Grapevine,Selina Zhang,Village SZ,100361,Nikhil Bawa,Harker NB,100426,20240913
@@ -1492,6 +1609,50 @@ Grapevine,Jack Wodke,Parkway JW,100465,Arnav Singh,Southlake Carroll ASi,100479,
 Grapevine,Aarav Mahendru,Lamar AM,100451,Arjun Elango,Plano West AE,100466,20240913
 Grapevine,Justin Wen,Strake Jesuit  JW,100489,Alex Anderson,Emerson AA,100404,20240913
 Grapevine,Angel Ribo,Plano West AR,100319,Liam McDonald,Northland Christian LM,100303,20240913
+Grapevine,Siddhartha Daswani,Harker SD,100428,Riley Ro,Cary Acad RR,100386,20240913
+Grapevine,Riley Ro,Cary Acad RR,100386,Jackson White,Klein Oak JW,100445,20240913
+Grapevine,Siddhartha Daswani,Harker SD,100428,Atharva Srivastava,McNeil AS,100454,20240913
+Grapevine,Riley Ro,Cary Acad RR,100386,Justin Wen,Strake Jesuit  JW,100489,20240913
+Grapevine,Atharva Srivastava,McNeil AS,100454,Easton Peters,Heights EP,100432,20240913
+Grapevine,Jackson White,Klein Oak JW,100445,Erin Jia,Memorial EJ,100269,20240913
+Grapevine,Justin Wen,Strake Jesuit  JW,100489,Kush Vijapure,Jordan KV,100236,20240913
+Grapevine,Atharva Srivastava,McNeil AS,100454,Andrew Brandt,Isidore Newman AB,100435,20240913
+Grapevine,Jackson White,Klein Oak JW,100445,Kelvin Meng,Strake Jesuit  KM,100490,20240913
+Grapevine,Erin Jia,Memorial EJ,100269,Ananya Pradhan,Harker AP,100422,20240913
+Grapevine,Lucas Cao,Harker LC,100424,Miller Roberts,Westlake MR,100505,20240913
+Grapevine,Easton Peters,Heights EP,100432,Ava Moon,Flower Mound AM,100017,20240913
+Grapevine,Riley Ro,Cary Acad RR,100386,Vishal Surya,Seven Lakes VS,100330,20240913
+Grapevine,Justin Wen,Strake Jesuit  JW,100489,Liam McDonald,Northland Christian LM,100303,20240913
+Grapevine,Atharva Srivastava,McNeil AS,100454,Angel Ribo,Plano West AR,100319,20240913
+Grapevine,Sanjith Senthil,Harker SS,100429,Sarah Koshy,Greenhill SK,100418,20240913
+Grapevine,Jackson White,Klein Oak JW,100445,Selina Zhang,Village SZ,100361,20240913
+Grapevine,Erin Jia,Memorial EJ,100269,Aditya Shetty,Southlake Carroll AS,100337,20240913
+Grapevine,Easton Peters,Heights EP,100432,Michael Ahn,Greenhill MA,100415,20240913
+Grapevine,Riley Ro,Cary Acad RR,100386,Lula Wang,Greenwich LW,100420,20240913
+Grapevine,Vishal Surya,Seven Lakes VS,100330,Nikhil Bawa,Harker NB,100426,20240913
+Grapevine,Ava Moon,Flower Mound AM,100017,Anderson Hendrix,Northland Christian AH,100301,20240913
+Grapevine,Lucas Cao,Harker LC,100424,Fahim Jahingir,Jordan FJ,100235,20240913
+Grapevine,Ananya Pradhan,Harker AP,100422,Neel Kannambadi,Acton-Boxborough NK,100129,20240913
+Grapevine,Kelvin Meng,Strake Jesuit  KM,100490,Roshan Amurthur,Harker RA,100427,20240913
+Grapevine,Siddhartha Daswani,Harker SD,100428,Jamie Hao,Northland Christian JH,100302,20240913
+Grapevine,Andrew Brandt,Isidore Newman AB,100435,Christopher Liu,Valley Christian CL,100121,20240913
+Grapevine,Kush Vijapure,Jordan KV,100236,Max Gu,Memorial MG,100270,20240913
+Grapevine,Max Gu,Memorial MG,100270,Arjun Elango,Plano West AE,100466,20240913
+Grapevine,Christopher Liu,Valley Christian CL,100121,Oliver Zhang,Strake Jesuit  OZ,100494,20240913
+Grapevine,Siddhartha Daswani,Harker SD,100428,Megan Waters,Heights MW,100433,20240913
+Grapevine,Kelvin Meng,Strake Jesuit  KM,100490,Pranav Sreenivas,Greenhill PS,100417,20240913
+Grapevine,Neel Kannambadi,Acton-Boxborough NK,100129,Sophie Zhou,Kinkaid SZ,100444,20240913
+Grapevine,Fahim Jahingir,Jordan FJ,100235,Christopher Bezemek,Strake Jesuit  CB,100487,20240913
+Grapevine,Anderson Hendrix,Northland Christian AH,100301,Tara Prem,Harker TP,100430,20240913
+Grapevine,Nikhil Bawa,Harker NB,100426,Felicity Zhang,Concord Carlisle FZ,100166,20240913
+Grapevine,Lula Wang,Greenwich LW,100420,Rowan MacLean,Clear Lake RM,100163,20240913
+Grapevine,Michael Ahn,Greenhill MA,100415,Parker Hamstra,Winston Churchill PH,100511,20240913
+Grapevine,Andy Hou,Westlake AH,100124,Sebastian Valladolid,Strake Jesuit  SV,100497,20240913
+Grapevine,Erin Jia,Memorial EJ,100269,Aaron Kuang,Greenhill AK,100412,20240913
+Grapevine,Jackson White,Klein Oak JW,100445,Surya Dasari,Flower Mound SD,100406,20240913
+Grapevine,Sanjith Senthil,Harker SS,100429,Chloe Shao,Memorial CS,100268,20240913
+Grapevine,Atharva Srivastava,McNeil AS,100454,Angelina Antony,Harker AA,100421,20240913
+Grapevine,Liam McDonald,Northland Christian LM,100303,Aarav Mahendru,Lamar AM,100451,20240913
 Yale,Harris Layson,Lake Highland Prep HL,100559,Mirei Saneyoshi,Lexington MS,100250,20240920
 Yale,Kristina Wisniewski,North Allegheny KW,100298,Isaac Love,Flintridge Prep IL,100016,20240920
 Yale,Michael Meng (Lawrenceville),Lawrenceville MM,100563,Izzie Chang,Brearley IC,100524,20240920
@@ -1758,6 +1919,35 @@ Yale,Toby Hou,Lawrenceville TH,100564,Emily Ramirez,Dreyfoos Arts ER,100541,2024
 Yale,Savan Boxer,Boston Latin SB,100523,Sage Stanley,Cypress Bay SS,100540,20240920
 Yale,Chloe Wolf,American Heritage Broward CW,100135,Emma Xu,Flintridge Prep EX,100195,20240920
 Yale,Taejun Kim,BASIS Scottsdale TK,100006,Sameer Kandra,Ridge SK,100581,20240920
+Yale,Harris Layson,Lake Highland Prep HL,100559,Jessica Wong,American Heritage Broward JW,100518,20240920
+Yale,Riley Ro,Cary Acad RR,100386,Salma Gheith,Horace Greeley SG,100034,20240920
+Yale,Brooke Gemechu,Hawken BG,100222,Andrew Gaffin,Harrison AG,100204,20240920
+Yale,Derek Han,Cary Acad DH,100384,Kristina Wisniewski,North Allegheny KW,100298,20240920
+Yale,Michael Meng (Lawrenceville),Lawrenceville MM,100563,Mirei Saneyoshi,Lexington MS,100250,20240920
+Yale,Prateek Seela,Lake Highland Prep PS,100560,Leyi Han,Millburn LH,100571,20240920
+Yale,Timothy Jiang,Brophy TJ,100010,Rishabh Handa,Millburn RH,100572,20240920
+Yale,Wali Hasan,Lake Highland Prep WH,100242,Christopher Liu,Valley Christian CL,100121,20240920
+Yale,Harris Layson,Lake Highland Prep HL,100559,Derek Han,Cary Acad DH,100384,20240920
+Yale,Prateek Seela,Lake Highland Prep PS,100560,Riley Ro,Cary Acad RR,100386,20240920
+Yale,Riley Ro,Cary Acad RR,100386,Timothy Jiang,Brophy TJ,100010,20240920
+Yale,Prateek Seela,Lake Highland Prep PS,100560,Brooke Gemechu,Hawken BG,100222,20240920
+Yale,Derek Han,Cary Acad DH,100384,Michael Meng (Lawrenceville),Lawrenceville MM,100563,20240920
+Yale,Harris Layson,Lake Highland Prep HL,100559,Noah Arthur,Concord Carlisle NA,100538,20240920
+Yale,Riley Ro,Cary Acad RR,100386,Sahaj Chahal,Walt Whitman SC,100598,20240920
+Yale,Brooke Gemechu,Hawken BG,100222,Gabriel Whangbo-Olvera,Durham GW,100179,20240920
+Yale,Derek Han,Cary Acad DH,100384,Alexandra Mitchell,Montville AM,100573,20240920
+Yale,Michael Meng (Lawrenceville),Lawrenceville MM,100563,Xavier Phillip,La Salle XP,100558,20240920
+Yale,Leyi Han,Millburn LH,100571,Felicity Zhang,Concord Carlisle FZ,100166,20240920
+Yale,Timothy Jiang,Brophy TJ,100010,Samantha Fortier,Lexington SF,100567,20240920
+Yale,Wali Hasan,Lake Highland Prep WH,100242,Ayan Mahajan,Wheatley AM,100370,20240920
+Yale,Christopher Liu,Valley Christian CL,100121,Isaac Love,Flintridge Prep IL,100016,20240920
+Yale,Rishabh Handa,Millburn RH,100572,John Joyce,Hawken JJ,100552,20240920
+Yale,Prateek Seela,Lake Highland Prep PS,100560,Adeena Naeem,Harrison AN,100206,20240920
+Yale,Mirei Saneyoshi,Lexington MS,100250,Daniel Zheng,Stuyvesant DZ,100588,20240920
+Yale,Kristina Wisniewski,North Allegheny KW,100298,Taejun Kim,BASIS Scottsdale TK,100006,20240920
+Yale,Andrew Gaffin,Harrison AG,100204,Meera Shah,Ridge MS,100580,20240920
+Yale,Salma Gheith,Horace Greeley SG,100034,Chloe Wolf,American Heritage Broward CW,100135,20240920
+Yale,Jessica Wong,American Heritage Broward JW,100518,Ezana Haile,Lakeville South EH,100243,20240920
 MidAmericaCup,Cassie Schebel,West Des Moines Valley Cassie Schebel,100673,Atharva Srivastava,McNeil Atharva Srivastava,100645,20240927
 MidAmericaCup,Andrew Xu,East Chapel Hill Andrew Xu,100616,Ishaan Dhillon-Patel,Harker Ishaan Dhillon-Patel,100620,20240927
 MidAmericaCup,Cooper Brody,Renaissance Cooper Brody,100654,Ben Drummond,West Des Moines Valley Ben Drummond,100672,20240927
@@ -1981,6 +2171,33 @@ MidAmericaCup,Jack Gessner,Harrison Jack Gessner,100635,Dorie He,Arizona  Dorie 
 MidAmericaCup,Flynn Williams,Harrison Flynn Williams,100634,Sahngwie Yim,Harker Sahngwie Yim,100626,20240927
 MidAmericaCup,Sherine Liu,Village Sherine Liu,100671,Nyssa Kansal,Harker Nyssa Kansal,100625,20240927
 MidAmericaCup,Brooke Schiano-Gonzalez,Harrison Brooke Schiano-Gonzalez,100633,Aditya Shetty,Southlake Carroll Aditya Shetty,100657,20240927
+MidAmericaCup,Michael Meng (Strake),Strake Jesuit  Michael Meng,100664,Brooke Schiano-Gonzalez,Harrison Brooke Schiano-Gonzalez,100633,20240927
+MidAmericaCup,Derek Han,Cary Acad Derek Han,100612,Atharva Srivastava,McNeil Atharva Srivastava,100645,20240927
+MidAmericaCup,Siddhartha Daswani,Harker Siddhartha Daswani,100628,Sebastian Valladolid,Strake Jesuit  Sebastian Valladolid,100666,20240927
+MidAmericaCup,Albert Cai,Barrington Albert Cai,100608,Jack Gessner,Harrison Jack Gessner,100635,20240927
+MidAmericaCup,Reese Potash,Harrison Reese Potash,100636,Landon Stull,West Des Moines Valley Landon Stull,100677,20240927
+MidAmericaCup,Riley Ro,Cary Acad Riley Ro,100614,Flynn Williams,Harrison Flynn Williams,100634,20240927
+MidAmericaCup,Salma Gheith,Horace Greeley Salma Gheith,100639,Timothy Jiang,Brophy Timothy Jiang,100610,20240927
+MidAmericaCup,Samuel Rubinstein,Strake Jesuit  Samuel Rubinstein,100665,Chloe Wolf,American Heritage Broward Chloe Wolf,100603,20240927
+MidAmericaCup,Samuel Rubinstein,Strake Jesuit  Samuel Rubinstein,100665,Reese Potash,Harrison Reese Potash,100636,20240927
+MidAmericaCup,Salma Gheith,Horace Greeley Salma Gheith,100639,Riley Ro,Cary Acad Riley Ro,100614,20240927
+MidAmericaCup,Salma Gheith,Horace Greeley Salma Gheith,100639,Derek Han,Cary Acad Derek Han,100612,20240927
+MidAmericaCup,Riley Ro,Cary Acad Riley Ro,100614,Siddhartha Daswani,Harker Siddhartha Daswani,100628,20240927
+MidAmericaCup,Reese Potash,Harrison Reese Potash,100636,Albert Cai,Barrington Albert Cai,100608,20240927
+MidAmericaCup,Jack Gessner,Harrison Jack Gessner,100635,Meddy Ma,Strake Jesuit  Meddy Ma,100663,20240927
+MidAmericaCup,Reese Potash,Harrison Reese Potash,100636,Max Gu,Memorial Max Gu,100647,20240927
+MidAmericaCup,Riley Ro,Cary Acad Riley Ro,100614,Dariia Chugueva,Awty International Dariia Chugueva,100607,20240927
+MidAmericaCup,Timothy Jiang,Brophy Timothy Jiang,100610,Sanjith Senthil,Harker Sanjith Senthil,100627,20240927
+MidAmericaCup,Chloe Wolf,American Heritage Broward Chloe Wolf,100603,Aditya Shetty,Southlake Carroll Aditya Shetty,100657,20240927
+MidAmericaCup,Samuel Rubinstein,Strake Jesuit  Samuel Rubinstein,100665,Veronica Zhang,Vestavia Hills Veronica Zhang,100669,20240927
+MidAmericaCup,Salma Gheith,Horace Greeley Salma Gheith,100639,Mina Hu,Vestavia Hills Mina Hu,100668,20240927
+MidAmericaCup,Flynn Williams,Harrison Flynn Williams,100634,Christopher Cheng,Strake Jesuit  Christopher Cheng,100659,20240927
+MidAmericaCup,Landon Stull,West Des Moines Valley Landon Stull,100677,Nikhil Bawa,Harker Nikhil Bawa,100624,20240927
+MidAmericaCup,Albert Cai,Barrington Albert Cai,100608,Neel Kannambadi,Acton-Boxborough Neel Kannambadi,100602,20240927
+MidAmericaCup,Sebastian Valladolid,Strake Jesuit  Sebastian Valladolid,100666,Adrienne Wang,Village Adrienne Wang,100670,20240927
+MidAmericaCup,Atharva Srivastava,McNeil Atharva Srivastava,100645,Aarnav Agrawal,Monta Vista Aarnav Agrawal,100649,20240927
+MidAmericaCup,Michael Meng (Strake),Strake Jesuit  Michael Meng,100664,Cooper Brody,Renaissance Cooper Brody,100654,20240927
+MidAmericaCup,Riley Ro,Cary Acad Riley Ro,100614,Samuel Rubinstein,Strake Jesuit  Samuel Rubinstein,100665,20240927
 JackHowe,Iva Liu,OCSA IL,100085,Isaac Love,Flintridge Prep IL,100016,20240928
 JackHowe,Leo Zhang,Sage Hill LZ,100765,Neil Marwah,Los Altos NM,100051,20240928
 JackHowe,Yifan Sheng,BASIS Silicon Valley YS,100008,Olivia Amir,Immaculate Heart OA,100044,20240928
@@ -2242,6 +2459,35 @@ JackHowe,Rishad Vaghaiwalla,Loyola RV,100721,Rory Baskin,Marlborough RB,100070,2
 JackHowe,William Liu,Harvard-Westlake WL,100032,Isaac Love,Flintridge Prep IL,100016,20240928
 JackHowe,Penelope Pressman,Marlborough PP,100068,Beau Cartwright,Harvard-Westlake BC,100211,20240928
 JackHowe,Justin Ding,ModernBrain JD,100738,Alisa Jiang,ILearn Education AJ,100707,20240928
+JackHowe,Sterling Utovac,Peninsula SU,100099,Emma Sobel,Immaculate Heart ES,100040,20240928
+JackHowe,Iva Liu,OCSA IL,100085,Aaron Yi,Peninsula AY,100090,20240928
+JackHowe,William Liu,Harvard-Westlake WL,100032,Olivia Ohr,Marlborough OO,100067,20240928
+JackHowe,Penelope Pressman,Marlborough PP,100068,Andrew Park,Archbishop Mitty AP,100682,20240928
+JackHowe,Ethan Yang,Monta Vista EY,100078,William Covington,Arizona Chandler Independent WC,100684,20240928
+JackHowe,Karenna Mehta,Marlborough KM,100728,William Li,Washington Independent WL,100123,20240928
+JackHowe,Kevin Han,Peninsula KH,100095,Elle Dershewitz,Marlborough ED,100061,20240928
+JackHowe,Abhinav Kasturi,Los Altos AK,100049,Rishad Vaghaiwalla,Loyola RV,100721,20240928
+JackHowe,Sterling Utovac,Peninsula SU,100099,Penelope Pressman,Marlborough PP,100068,20240928
+JackHowe,Iva Liu,OCSA IL,100085,William Liu,Harvard-Westlake WL,100032,20240928
+JackHowe,Sterling Utovac,Peninsula SU,100099,Abhinav Kasturi,Los Altos AK,100049,20240928
+JackHowe,Iva Liu,OCSA IL,100085,Kevin Han,Peninsula KH,100095,20240928
+JackHowe,William Liu,Harvard-Westlake WL,100032,Karenna Mehta,Marlborough KM,100728,20240928
+JackHowe,Ethan Yang,Monta Vista EY,100078,Penelope Pressman,Marlborough PP,100068,20240928
+JackHowe,Sterling Utovac,Peninsula SU,100099,Rhea Sreedhar,OCSA RS,100746,20240928
+JackHowe,Iva Liu,OCSA IL,100085,Jason Huang,ModernBrain JH,100739,20240928
+JackHowe,William Liu,Harvard-Westlake WL,100032,Leah Fischer,Marlborough LF,100065,20240928
+JackHowe,Penelope Pressman,Marlborough PP,100068,Julia Thomas,Harvard-Westlake JT,100024,20240928
+JackHowe,Ethan Yang,Monta Vista EY,100078,Justin Ding,ModernBrain JD,100738,20240928
+JackHowe,Karenna Mehta,Marlborough KM,100728,Benjamin Weiner,Oakwood BW,100084,20240928
+JackHowe,Elle Dershewitz,Marlborough ED,100061,Lucy Shi,Harvard-Westlake LS,100028,20240928
+JackHowe,Abhinav Kasturi,Los Altos AK,100049,Rory Baskin,Marlborough RB,100070,20240928
+JackHowe,Rishad Vaghaiwalla,Loyola RV,100721,Austin Loui,Peninsula AL,100088,20240928
+JackHowe,William Li,Washington Independent WL,100123,Mia Fleming,Immaculate Heart MF,100042,20240928
+JackHowe,William Covington,Arizona Chandler Independent WC,100684,Brian Son,Peninsula BS,100091,20240928
+JackHowe,Andrew Park,Archbishop Mitty AP,100682,Aayush Gandhi,Dublin HS Independent AG,100014,20240928
+JackHowe,Aaron Yi,Peninsula AY,100090,James Young,Mercer Island Independent JY,100272,20240928
+JackHowe,Emma Sobel,Immaculate Heart ES,100040,Kaison Maruyama,Harvard-Westlake KM,100026,20240928
+JackHowe,Iva Liu,OCSA IL,100085,Sterling Utovac,Peninsula SU,100099,20240928
 Greenhill,Penny Stoller,Marlborough PS,100069,Grady Morris,Colleyville Heritage GM,100394,20240919
 Greenhill,Samuel Rubinstein,Strake Jesuit  SR,100496,Briana Song,Immaculate Heart BS,100037,20240919
 Greenhill,Christopher Cheng,Strake Jesuit  CC,100488,Craig O'Sullivan,St Thomas CO,100485,20240919
@@ -2536,6 +2782,35 @@ Greenhill,Andy Hou,Westlake AH,100124,Christopher Cheng,Strake Jesuit  CC,100488
 Greenhill,Vikrant Vadathavoor,Lynbrook VV,100056,Samuel Rubinstein,Strake Jesuit  SR,100496,20240919
 Greenhill,Ava Moon,Flower Mound AM,100017,Sterling Utovac,Peninsula SU,100099,20240919
 Greenhill,Jack Gessner,Harrison JG,100209,William Liu,Harvard-Westlake WL,100032,20240919
+Greenhill,David Xu,Memorial DX,100834,Sterling Utovac,Peninsula SU,100099,20240919
+Greenhill,Miller Roberts,Westlake MR,100505,Reese Potash,Harrison RP,100796,20240919
+Greenhill,Justin Wen,Strake Jesuit  JW,100489,Jack Borman,Harrison JB,100208,20240919
+Greenhill,Austin Loui,Peninsula AL,100088,Vikrant Vadathavoor,Lynbrook VV,100056,20240919
+Greenhill,Om Modi,Lynbrook OM,100055,Penelope Pressman,Marlborough PP,100068,20240919
+Greenhill,Iva Liu,OCSA IL,100085,Abhinav Kasturi,Los Altos AK,100049,20240919
+Greenhill,Nathaniel Watkins,L C Anderson NW,100047,Abby Merges,Marlborough AM,100058,20240919
+Greenhill,Nathaniel Watkins,L C Anderson NW,100047,Om Modi,Lynbrook OM,100055,20240919
+Greenhill,Iva Liu,OCSA IL,100085,Siddhartha Daswani,Harker SD,100428,20240919
+Greenhill,Nathaniel Watkins,L C Anderson NW,100047,David Xu,Memorial DX,100834,20240919
+Greenhill,Iva Liu,OCSA IL,100085,Miller Roberts,Westlake MR,100505,20240919
+Greenhill,Siddhartha Daswani,Harker SD,100428,Justin Wen,Strake Jesuit  JW,100489,20240919
+Greenhill,Om Modi,Lynbrook OM,100055,Austin Loui,Peninsula AL,100088,20240919
+Greenhill,David Xu,Memorial DX,100834,Angelina Antony,Harker AA,100421,20240919
+Greenhill,Miller Roberts,Westlake MR,100505,Ashley Lourenco,Newark Science AL,100838,20240919
+Greenhill,Vikrant Vadathavoor,Lynbrook VV,100056,Luke Schooler,L C Anderson LS,100046,20240919
+Greenhill,Penelope Pressman,Marlborough PP,100068,Ava Moon,Flower Mound AM,100017,20240919
+Greenhill,Siddhartha Daswani,Harker SD,100428,Aaron Yi,Peninsula AY,100090,20240919
+Greenhill,Iva Liu,OCSA IL,100085,Sanjith Senthil,Harker SS,100429,20240919
+Greenhill,Abby Merges,Marlborough AM,100058,Haider Zaidi,Walt Whitman HZ,100862,20240919
+Greenhill,Nathaniel Watkins,L C Anderson NW,100047,Andy Hou,Westlake AH,100124,20240919
+Greenhill,Abhinav Kasturi,Los Altos AK,100049,Bolang Zhu,Lynbrook BZ,100053,20240919
+Greenhill,Roshan Amurthur,Harker RA,100427,Jack Gessner,Harrison JG,100209,20240919
+Greenhill,Om Modi,Lynbrook OM,100055,Andrew Brandt,Isidore Newman AB,100435,20240919
+Greenhill,Austin Loui,Peninsula AL,100088,Meddy Ma,Strake Jesuit  MM,100492,20240919
+Greenhill,Jack Borman,Harrison JB,100208,Albert Cai,Barrington AC,100004,20240919
+Greenhill,Reese Potash,Harrison RP,100796,Asher Meron,Harvard-Westlake AM,100797,20240919
+Greenhill,Sterling Utovac,Peninsula SU,100099,Olivia Ohr,Marlborough OO,100067,20240919
+Greenhill,Iva Liu,OCSA IL,100085,Nathaniel Watkins,L C Anderson NW,100047,20240919
 NanoNagle,Sophia Moreno,Marlborough SM,100073,Taejun Kim,BASIS Scottsdale TK,100006,20241012
 NanoNagle,Amanda Yu,Stanford OHS AY,100114,Roshan Amurthur,Harker RA,100427,20241012
 NanoNagle,Andrew Kommu,BASIS Scottsdale AK,100141,Terry Ding,American TD,100868,20241012
@@ -2768,6 +3043,29 @@ NanoNagle,Daniel Cherniak,Clovis North DC,100013,Vera Sorotokin,Harker VS,100431
 NanoNagle,Sahngwie Yim,Harker SY,100792,Harly Liu,Monta Vista HL,100079,20241012
 NanoNagle,Lucas Cao,Harker LC,100424,Matthew Tamayo,Loyola MT,100909,20241012
 NanoNagle,Penelope Pressman,Marlborough PP,100068,Kaylee Kim,Meadows KK,100929,20241012
+NanoNagle,Siddhartha Daswani,Harker SD,100428,Olivia Ohr,Marlborough OO,100067,20241012
+NanoNagle,Abby Merges,Marlborough AM,100058,Ananya Pradhan,Harker AP,100422,20241012
+NanoNagle,Olivia Ohr,Marlborough OO,100067,Sanjith Senthil,Harker SSe,100900,20241012
+NanoNagle,Sahngwie Yim,Harker SY,100792,Andrew Park,Archbishop Mitty AP,100682,20241012
+NanoNagle,Siddhartha Daswani,Harker SD,100428,Penelope Pressman,Marlborough PP,100068,20241012
+NanoNagle,Abby Merges,Marlborough AM,100058,Amanda Yu,Stanford OHS AY,100114,20241012
+NanoNagle,Olivia Ohr,Marlborough OO,100067,Abhinav Kasturi,Los Altos AK,100049,20241012
+NanoNagle,Sahngwie Yim,Harker SY,100792,Timothy Jiang,Brophy TJ,100010,20241012
+NanoNagle,Andrew Park,Archbishop Mitty AP,100682,Tomas Gonzalez,Loyola TG,100911,20241012
+NanoNagle,Sanjith Senthil,Harker SSe,100900,Shiwen Huang,Riverside Independent SH,100110,20241012
+NanoNagle,Nikhil Bawa,Harker NB,100426,Aarnav Agrawal,Monta Vista AA,100077,20241012
+NanoNagle,Andrew Park,Archbishop Mitty AP,100682,Lucas Cao,Harker LC,100424,20241012
+NanoNagle,Shiwen Huang,Riverside Independent SH,100110,Valerie Li,Harker VL,100793,20241012
+NanoNagle,Ananya Pradhan,Harker AP,100422,Vihaan Patel,BASIS Silicon Valley VP,100145,20241012
+NanoNagle,Aarnav Agrawal,Monta Vista AA,100077,Tara Prem,Harker TP,100430,20241012
+NanoNagle,Nikhil Bawa,Harker NB,100426,Gabriela Adler,Marlborough GA,100827,20241012
+NanoNagle,Angelina Antony,Harker AA,100421,Leah Fischer,Marlborough LF,100065,20241012
+NanoNagle,Sanjith Senthil,Harker SSe,100900,Karenna Mehta,Marlborough KM,100728,20241012
+NanoNagle,Tomas Gonzalez,Loyola TG,100911,Sanjith Senthil,Harker SS,100429,20241012
+NanoNagle,Timothy Jiang,Brophy TJ,100010,Penny Stoller,Marlborough PS,100069,20241012
+NanoNagle,Abhinav Kasturi,Los Altos AK,100049,Aayush Gandhi,Dublin HS Independent AG,100014,20241012
+NanoNagle,Abby Merges,Marlborough AM,100058,Rishad Vaghaiwalla,Loyola RV,100721,20241012
+NanoNagle,Penelope Pressman,Marlborough PP,100068,Roshan Amurthur,Harker RA,100427,20241012
 DTA,Neel Shrivastava,Wayzata NS,100364,Jericho Suarez,James Logan JS,100987,20241012
 DTA,David Adelowo,Newark Science DA,100839,Cyris Lim,Dr. Phillips CL,100965,20241012
 DTA,Brandon Phelps,Sophie B. Wright Institute Of Academic Excellence BP,101008,Derrick Norris,Delores Taylor Arthur School for Young Men DN,100961,20241012
@@ -2992,3 +3290,514 @@ DTA,Evelyn Shao,Cornerstone ES,100400,Sahaj Chahal,Walt Whitman SC,100598,202410
 DTA,Andrew Gaffin,Harrison AG,100204,Kristina Wisniewski,North Allegheny KW,100298,20241012
 DTA,Trent Hedrick,Greenhill TH,100419,Zaid Ashruf,University ZA,101017,20241012
 DTA,Neel Shrivastava,Wayzata NS,100364,Pratosh Raman,Greenhill PR,100416,20241012
+DTA,Isaac Love,Flintridge Prep IL,100016,Neel Shrivastava,Wayzata NS,100364,20241012
+DTA,Selina Zhang,Village SZ,100361,Pranav Sreenivas,Greenhill PS,100417,20241012
+DTA,Neel Kannambadi,Acton-Boxborough NK,100129,Trent Hedrick,Greenhill TH,100419,20241012
+DTA,Jordan Brown,Delores Taylor Arthur School for Young Men JB,100169,Kyson Bloomingdale,Millard North KB,100276,20241012
+DTA,Parker Hamstra,Winston Churchill PH,100511,Michael Ahn,Greenhill MA,100415,20241012
+DTA,Liam McDonald,Northland Christian LM,100303,John Joyce,Hawken JJ,100552,20241012
+DTA,Andrew Gaffin,Harrison AG,100204,Eric Xing,Greenhill EX,100971,20241012
+DTA,Rowan MacLean,Clear Lake RM,100163,Kaden Buckner,Cabot KB,100155,20241012
+DTA,Angel Ribo,Plano West AR,100319,Nicholas Fedorov,Midtown NF,100274,20241012
+DTA,Jerry Li,Iowa City West JL,100986,Flynn Williams,Harrison FW,100207,20241012
+DTA,Micah Byron-Smarra,Waring MB,100122,Ayan Mahajan,Wheatley AM,100370,20241012
+DTA,Ashley Lourenco,Newark Science AL,100838,Dylan Millimet,Greenhill DM,100413,20241012
+DTA,Anderson Hendrix,Northland Christian AH,100301,Grady Morris,Colleyville Heritage GM,100394,20241012
+DTA,Sophie Zhou,Kinkaid SZ,100444,Justin Zou,Lakeridge JZ,100993,20241012
+DTA,Sophie Zhou,Kinkaid SZ,100444,Cathryn Wu,Clear Lake CW,100012,20241012
+DTA,Isaac Love,Flintridge Prep IL,100016,Anderson Hendrix,Northland Christian AH,100301,20241012
+DTA,Selina Zhang,Village SZ,100361,Ashley Lourenco,Newark Science AL,100838,20241012
+DTA,Aaron Kuang,Greenhill AK,100412,Neel Kannambadi,Acton-Boxborough NK,100129,20241012
+DTA,Micah Byron-Smarra,Waring MB,100122,Jordan Brown,Delores Taylor Arthur School for Young Men JB,100169,20241012
+DTA,Parker Hamstra,Winston Churchill PH,100511,Jerry Li,Iowa City West JL,100986,20241012
+DTA,Angel Ribo,Plano West AR,100319,Liam McDonald,Northland Christian LM,100303,20241012
+DTA,Andrew Gaffin,Harrison AG,100204,Rowan MacLean,Clear Lake RM,100163,20241012
+DTA,Rowan MacLean,Clear Lake RM,100163,Sophie Zhou,Kinkaid SZ,100444,20241012
+DTA,Angel Ribo,Plano West AR,100319,Isaac Love,Flintridge Prep IL,100016,20241012
+DTA,Selina Zhang,Village SZ,100361,Parker Hamstra,Winston Churchill PH,100511,20241012
+DTA,Aaron Kuang,Greenhill AK,100412,Micah Byron-Smarra,Waring MB,100122,20241012
+DTA,Aaron Kuang,Greenhill AK,100412,Rowan MacLean,Clear Lake RM,100163,20241012
+DTA,Selina Zhang,Village SZ,100361,Angel Ribo,Plano West AR,100319,20241012
+DTA,Selina Zhang,Village SZ,100361,Aaron Kuang,Greenhill AK,100412,20241012
+JWPatterson,Michael Reola,Harvard-Westlake MR,100030,Cameron Simmons,Little Rock Central CS,100253,20241018
+JWPatterson,Esther Goldman,Harvard-Westlake EG,100213,Kaneeka Chakraborty,Little Rock Central KC,100254,20241018
+JWPatterson,Lucy Shi,Harvard-Westlake LS,100028,Gabrielle Torrence,Little Rock Central GT,101031,20241018
+JWPatterson,Beau Cartwright,Harvard-Westlake BC,100211,Josiah Thompson,Westmoore JT,101036,20241018
+JWPatterson,Leo Cruz,Little Rock Central LC,101033,Preston Werner,Westmoore PW,101037,20241018
+JWPatterson,Prisha Tiwari,Little Rock Central PT,101034,Damian Duran,Westmoore DD,101035,20241018
+JWPatterson,Leo Cruz,Little Rock Central LC,101033,Damian Duran,Westmoore DD,101035,20241018
+JWPatterson,Josiah Thompson,Westmoore JT,101036,Prisha Tiwari,Little Rock Central PT,101034,20241018
+JWPatterson,Cameron Simmons,Little Rock Central CS,100253,Michael Reola,Harvard-Westlake MR,100030,20241018
+JWPatterson,Esther Goldman,Harvard-Westlake EG,100213,Preston Werner,Westmoore PW,101037,20241018
+JWPatterson,Gabrielle Torrence,Little Rock Central GT,101031,Lucy Shi,Harvard-Westlake LS,100028,20241018
+JWPatterson,Kaneeka Chakraborty,Little Rock Central KC,100254,Beau Cartwright,Harvard-Westlake BC,100211,20241018
+JWPatterson,Esther Goldman,Harvard-Westlake EG,100213,Kaneeka Chakraborty,Little Rock Central KC,100254,20241018
+JWPatterson,Preston Werner,Westmoore PW,101037,Gabrielle Torrence,Little Rock Central GT,101031,20241018
+JWPatterson,Cameron Simmons,Little Rock Central CS,100253,Damian Duran,Westmoore DD,101035,20241018
+JWPatterson,Lucy Shi,Harvard-Westlake LS,100028,Josiah Thompson,Westmoore JT,101036,20241018
+JWPatterson,Michael Reola,Harvard-Westlake MR,100030,Leo Cruz,Little Rock Central LC,101033,20241018
+JWPatterson,Beau Cartwright,Harvard-Westlake BC,100211,Prisha Tiwari,Little Rock Central PT,101034,20241018
+JWPatterson,Esther Goldman,Harvard-Westlake EG,100213,Cameron Simmons,Little Rock Central CS,100253,20241018
+JWPatterson,Michael Reola,Harvard-Westlake MR,100030,Gabrielle Torrence,Little Rock Central GT,101031,20241018
+JWPatterson,Kaneeka Chakraborty,Little Rock Central KC,100254,Damian Duran,Westmoore DD,101035,20241018
+JWPatterson,Lucy Shi,Harvard-Westlake LS,100028,Prisha Tiwari,Little Rock Central PT,101034,20241018
+JWPatterson,Leo Cruz,Little Rock Central LC,101033,Josiah Thompson,Westmoore JT,101036,20241018
+JWPatterson,Preston Werner,Westmoore PW,101037,Beau Cartwright,Harvard-Westlake BC,100211,20241018
+JWPatterson,Beau Cartwright,Harvard-Westlake BC,100211,Leo Cruz,Little Rock Central LC,101033,20241018
+JWPatterson,Esther Goldman,Harvard-Westlake EG,100213,Gabrielle Torrence,Little Rock Central GT,101031,20241018
+JWPatterson,Cameron Simmons,Little Rock Central CS,100253,Josiah Thompson,Westmoore JT,101036,20241018
+JWPatterson,Michael Reola,Harvard-Westlake MR,100030,Prisha Tiwari,Little Rock Central PT,101034,20241018
+JWPatterson,Lucy Shi,Harvard-Westlake LS,100028,Damian Duran,Westmoore DD,101035,20241018
+JWPatterson,Kaneeka Chakraborty,Little Rock Central KC,100254,Preston Werner,Westmoore PW,101037,20241018
+JWPatterson,Cameron Simmons,Little Rock Central CS,100253,Beau Cartwright,Harvard-Westlake BC,100211,20241018
+JWPatterson,Gabrielle Torrence,Little Rock Central GT,101031,Damian Duran,Westmoore DD,101035,20241018
+JWPatterson,Kaneeka Chakraborty,Little Rock Central KC,100254,Josiah Thompson,Westmoore JT,101036,20241018
+JWPatterson,Esther Goldman,Harvard-Westlake EG,100213,Prisha Tiwari,Little Rock Central PT,101034,20241018
+JWPatterson,Lucy Shi,Harvard-Westlake LS,100028,Leo Cruz,Little Rock Central LC,101033,20241018
+JWPatterson,Michael Reola,Harvard-Westlake MR,100030,Preston Werner,Westmoore PW,101037,20241018
+JWPatterson,Cameron Simmons,Little Rock Central CS,100253,Esther Goldman,Harvard-Westlake EG,100213,20241018
+JWPatterson,Cameron Simmons,Little Rock Central CS,100253,Kaneeka Chakraborty,Little Rock Central KC,100254,20241018
+Bronx,Leyi Han,Millburn LH,100571,Felicity Zhang,Concord Carlisle FZ,100166,20241018
+Bronx,Yash Kandanuru,Germantown YK,101068,Noah Arthur,Concord Carlisle NA,100538,20241018
+Bronx,Patrick Liu,Cary Acad PL,100385,Atharv Gandhi,Harrison AGa,100205,20241018
+Bronx,Izzy Lee,Brearley IL,100150,Jonathan Mundukottackal,King JM,101098,20241018
+Bronx,Brooke Schiano-Gonzalez,Harrison BS,101076,Sherine Liu,Village SL,100360,20241018
+Bronx,Reese Potash,Harrison RP,100796,Sameer Kandra,Ridge SK,100581,20241018
+Bronx,Rishabh Handa,Millburn RH,100572,Chloe Zhou,Germantown CZ,100201,20241018
+Bronx,Chloe Shao,Memorial CS,100268,Noah Perry,Lexington NP,100251,20241018
+Bronx,Anyaa Sachdev,Half Hollow Hills HS East AS,101071,Madeleine De Leon-Wagner,Immaculate Heart MD,100041,20241018
+Bronx,Jeffrey Tvedt,Syosset JT,100342,Andrew Wu,Lexington AW,100248,20241018
+Bronx,Mirei Saneyoshi,Lexington MS,100250,Adrienne Wang,Village AW,100358,20241018
+Bronx,Salma Gheith,Horace Greeley SG,100034,Andrew Xu,East Chapel Hill AX,100182,20241018
+Bronx,Nicolette Huff,Immaculate Heart NH,100043,Seth Parker,Calvert Hall SP,101050,20241018
+Bronx,Chloe Wolf,American Heritage Broward CW,100135,Ethan Wu,Mountain Lakes EW,100575,20241018
+Bronx,Aaron Choi,Northern Valley AC,100299,Connor Chau,Summit CC,100341,20241018
+Bronx,Ashley Lourenco,Newark Science AL,100838,Adeena Naeem,Harrison AN,100206,20241018
+Bronx,Wendy Sun,Isidore Newman WS,101096,Mufei Yu,Stuyvesant MY,101156,20241018
+Bronx,Micah Byron-Smarra,Waring MB,100122,Toby Hou,Lawrenceville TH,100564,20241018
+Bronx,Jack Gessner,Harrison JG,100209,Isaac Love,Flintridge Prep IL,100016,20241018
+Bronx,Sage Stanley,Cypress Bay SS,100540,Ruby Aldape,Summit RA,101162,20241018
+Bronx,Andy Miani,Horace Greeley AM,100033,Alexandra Mitchell,Montville AM,100573,20241018
+Bronx,Russell Huber,Isidore Newman RH,101094,Christopher Correia,Horace Greeley CC,101082,20241018
+Bronx,Kenneth Lu,Lexington KL,100565,Owen Black,Fordham Prep OB,101065,20241018
+Bronx,Bryan Fu,Mercer Island HSD BF,101123,Chidvilas Gurram,Acton-Boxborough CG,100127,20241018
+Bronx,Ziyi Chen,Ridge ZC,101142,Lili Sella,Bronx Science LS,101047,20241018
+Bronx,Ayan Mahajan,Wheatley AM,100370,Max Gu,Memorial MG,100270,20241018
+Bronx,Andrew Brandt,Isidore Newman AB,100435,Emma Sobel,Immaculate Heart ES,100040,20241018
+Bronx,Arin Lee,Chapin AL,101052,Samaya Lohani,Montville SL,101130,20241018
+Bronx,Ezana Haile,Lakeville South EH,100243,Flynn Williams,Harrison FW,100207,20241018
+Bronx,Galvin Chen,Stuyvesant GC,101154,Anya Pathak,Edgemont AP,100183,20241018
+Bronx,Theodore Bernstein,Hunter TB,101086,Chupeng Gui,Lake Highland Prep CG,100238,20241018
+Bronx,David Adelowo,Newark Science DA,100839,Allison Liu,Lexington AL,100247,20241018
+Bronx,Lillian Yang,Lexington LY,101113,Ansh Shamdasani,Montville AS,100286,20241018
+Bronx,Alexis Qian,Stuyvesant AQ,101149,Gabriel Whangbo-Olvera,Durham GW,100179,20241018
+Bronx,Maurya Srivastava,Collegiate MS,101053,Angelina Zhang,Unionville AZ,101164,20241018
+Bronx,Hayul (Ellie) Kim,Northern Valley HK,100300,Amandeep Manda,Ridge AM,101138,20241018
+Bronx,Savan Boxer,Boston Latin SB,100523,Arnav Bhatia,Greenwich AB,101069,20241018
+Bronx,Emma Tan,Lake Highland Prep ET,100239,Sam Elichman,Isidore Newman SE,100232,20241018
+Bronx,Xavier Phillip,La Salle XP,100558,Jad Vicente,BASIS Scottsdale JV,101042,20241018
+Bronx,Princeden Hom,Stuyvesant PH,100589,Jiya Jolly,Isidore Newman JJ,100231,20241018
+Bronx,Erin Jia,Memorial EJ,100269,Shona Kumar,Livingston SK,100255,20241018
+Bronx,Neel Kannambadi,Acton-Boxborough NK,100129,Meddy Ma,Strake Jesuit  MM,100492,20241018
+Bronx,Grace Chen,Lexington GC,101111,Beverly Kang,Harrison BK,101075,20241018
+Bronx,Emma Lin,Stuyvesant ELi,101152,Carson Mueller,Immaculate Heart CM,100039,20241018
+Bronx,Jack Borman,Harrison JB,100208,Neel Aparanji,Lake Highland Prep NA,100241,20241018
+Bronx,Barclay Blair,Success Academy HSLA-BROOKLYN BB,100340,Shaan Shah,Montville SS,101131,20241018
+Bronx,Lydia Aklilu,Garland LA,100020,Omar Obeidat,Lexington OO,100252,20241018
+Bronx,Akshaj Nandigam,Lawrenceville AN,101105,Yuna Lee,Stuyvesant YL,101158,20241018
+Bronx,Samuel Chen,Bronx Science SC,101048,Shirin Sadoughi,Edgemont SS,100184,20241018
+Bronx,Lula Wang,Greenwich LW,100420,Dash Gilrain-Lennon,St Luke's DG,101146,20241018
+Bronx,Jessica Katz,Scarsdale JK,100585,Izzie Chang,Brearley IC,100524,20241018
+Bronx,Cindy Tang,Lexington CT,100249,Kiren Sitwala,Stuyvesant KS,101155,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Priya Aggarwal,Durham PA,101059,20241018
+Bronx,Rani Green,Poly Prep Country Day RG,100321,Eve Parrott,Livingston EP,100568,20241018
+Bronx,Sahaj Chahal,Walt Whitman SC,100598,Ellie Mak,Stuyvesant EM,101153,20241018
+Bronx,Himnish Koul,Ridge HK,101139,Daniel Park,King DP,101097,20241018
+Bronx,Renee Ding,Millburn RD,101126,Nina Cardenas,Cypress Bay NC,101056,20241018
+Bronx,Ajay Krishnan,Acton-Boxborough AK,100126,Maxwell Mao,Millburn MM,100278,20241018
+Bronx,Meera Shah,Ridge MS,100580,Veronica Zhang,Vestavia Hills VZ,100357,20241018
+Bronx,Ruby Simon,Sehome RS,100329,Saket Reddyjargu,Horace Greeley SR,100035,20241018
+Bronx,Aditya Shetty,Southlake Carroll AS,100337,Shashi Uppuluri,Edgemont SU,100185,20241018
+Bronx,Vin Wiemelt,Meadow Glen VW,101119,Sophie O'Brien,Hunter SO,100229,20241018
+Bronx,Timothy Jiang,Brophy TJ,100010,Michael Meng (Lawrenceville),Lawrenceville MM,100563,20241018
+Bronx,Daniel Zheng,Stuyvesant DZ,100588,James Hathcock,University JH,101165,20241018
+Bronx,Andrew Gaffin,Harrison AG,100204,Jason Jiang,La Salle JJ,100557,20241018
+Bronx,Dylan Carey,Isidore Newman DC,100436,Madeline Schleifman,Summit MS,101161,20241018
+Bronx,Alexis Qian,Stuyvesant AQ,101149,Anya Pathak,Edgemont AP,100183,20241018
+Bronx,Micah Byron-Smarra,Waring MB,100122,Atharv Gandhi,Harrison AGa,100205,20241018
+Bronx,Toby Hou,Lawrenceville TH,100564,Jad Vicente,BASIS Scottsdale JV,101042,20241018
+Bronx,Andrew Xu,East Chapel Hill AX,100182,Gabriel Whangbo-Olvera,Durham GW,100179,20241018
+Bronx,Jonathan Mundukottackal,King JM,101098,Savan Boxer,Boston Latin SB,100523,20241018
+Bronx,Michael Meng (Lawrenceville),Lawrenceville MM,100563,Sophie O'Brien,Hunter SO,100229,20241018
+Bronx,James Hathcock,University JH,101165,Galvin Chen,Stuyvesant GC,101154,20241018
+Bronx,Samuel Chen,Bronx Science SC,101048,Barclay Blair,Success Academy HSLA-BROOKLYN BB,100340,20241018
+Bronx,Andrew Gaffin,Harrison AG,100204,Jessica Katz,Scarsdale JK,100585,20241018
+Bronx,Erin Jia,Memorial EJ,100269,Ashley Lourenco,Newark Science AL,100838,20241018
+Bronx,Salma Gheith,Horace Greeley SG,100034,Jaylen Hilario-Peralta,Berkeley Carroll JH,100149,20241018
+Bronx,Nina Cardenas,Cypress Bay NC,101056,Arnav Bhatia,Greenwich AB,101069,20241018
+Bronx,Alexandra Mitchell,Montville AM,100573,Kenneth Lu,Lexington KL,100565,20241018
+Bronx,Eve Parrott,Livingston EP,100568,Chidvilas Gurram,Acton-Boxborough CG,100127,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Jason Jiang,La Salle JJ,100557,20241018
+Bronx,Shona Kumar,Livingston SK,100255,Aditya Shetty,Southlake Carroll AS,100337,20241018
+Bronx,Rani Green,Poly Prep Country Day RG,100321,Bryan Fu,Mercer Island HSD BF,101123,20241018
+Bronx,Emma Lin,Stuyvesant ELi,101152,Samaya Lohani,Montville SL,101130,20241018
+Bronx,Neel Kannambadi,Acton-Boxborough NK,100129,Chloe Wolf,American Heritage Broward CW,100135,20241018
+Bronx,Sherine Liu,Village SL,100360,Akshaj Nandigam,Lawrenceville AN,101105,20241018
+Bronx,Omar Obeidat,Lexington OO,100252,Princeden Hom,Stuyvesant PH,100589,20241018
+Bronx,Cindy Tang,Lexington CT,100249,Chupeng Gui,Lake Highland Prep CG,100238,20241018
+Bronx,Meddy Ma,Strake Jesuit  MM,100492,Meera Shah,Ridge MS,100580,20241018
+Bronx,Adrienne Wang,Village AW,100358,Daniel Zheng,Stuyvesant DZ,100588,20241018
+Bronx,Yuna Lee,Stuyvesant YL,101158,Anyaa Sachdev,Half Hollow Hills HS East AS,101071,20241018
+Bronx,Brooke Schiano-Gonzalez,Harrison BS,101076,Saket Reddyjargu,Horace Greeley SR,100035,20241018
+Bronx,Jiya Jolly,Isidore Newman JJ,100231,Shirin Sadoughi,Edgemont SS,100184,20241018
+Bronx,Lili Sella,Bronx Science LS,101047,Ellie Mak,Stuyvesant EM,101153,20241018
+Bronx,Timothy Jiang,Brophy TJ,100010,Jack Gessner,Harrison JG,100209,20241018
+Bronx,Chloe Shao,Memorial CS,100268,Yash Kandanuru,Germantown YK,101068,20241018
+Bronx,Seth Parker,Calvert Hall SP,101050,Theodore Bernstein,Hunter TB,101086,20241018
+Bronx,Xavier Phillip,La Salle XP,100558,Andy Miani,Horace Greeley AM,100033,20241018
+Bronx,Kiren Sitwala,Stuyvesant KS,101155,Renee Ding,Millburn RD,101126,20241018
+Bronx,Shashi Uppuluri,Edgemont SU,100185,Maurya Srivastava,Collegiate MS,101053,20241018
+Bronx,Vin Wiemelt,Meadow Glen VW,101119,Ruby Simon,Sehome RS,100329,20241018
+Bronx,Mirei Saneyoshi,Lexington MS,100250,Max Gu,Memorial MG,100270,20241018
+Bronx,Nicolette Huff,Immaculate Heart NH,100043,Arin Lee,Chapin AL,101052,20241018
+Bronx,Isaac Love,Flintridge Prep IL,100016,Leyi Han,Millburn LH,100571,20241018
+Bronx,Priya Aggarwal,Durham PA,101059,Ezana Haile,Lakeville South EH,100243,20241018
+Bronx,Beverly Kang,Harrison BK,101075,Ruby Aldape,Summit RA,101162,20241018
+Bronx,Veronica Zhang,Vestavia Hills VZ,100357,Lydia Aklilu,Garland LA,100020,20241018
+Bronx,Russell Huber,Isidore Newman RH,101094,Jeffrey Tvedt,Syosset JT,100342,20241018
+Bronx,Reese Potash,Harrison RP,100796,Sam Elichman,Isidore Newman SE,100232,20241018
+Bronx,Lula Wang,Greenwich LW,100420,Ajay Krishnan,Acton-Boxborough AK,100126,20241018
+Bronx,Neel Aparanji,Lake Highland Prep NA,100241,Chloe Zhou,Germantown CZ,100201,20241018
+Bronx,Grace Chen,Lexington GC,101111,Sage Stanley,Cypress Bay SS,100540,20241018
+Bronx,Maxwell Mao,Millburn MM,100278,Dylan Carey,Isidore Newman DC,100436,20241018
+Bronx,Evelyn Lifton,Stuyvesant EL,101151,Wendy Sun,Isidore Newman WS,101096,20241018
+Bronx,Andrew Brandt,Isidore Newman AB,100435,Emma Tan,Lake Highland Prep ET,100239,20241018
+Bronx,Jack Borman,Harrison JB,100208,Rishabh Handa,Millburn RH,100572,20241018
+Bronx,Felicity Zhang,Concord Carlisle FZ,100166,Himnish Koul,Ridge HK,101139,20241018
+Bronx,Ethan Wu,Mountain Lakes EW,100575,Izzy Lee,Brearley IL,100150,20241018
+Bronx,Ayan Mahajan,Wheatley AM,100370,Hayul (Ellie) Kim,Northern Valley HK,100300,20241018
+Bronx,Mufei Yu,Stuyvesant MY,101156,Shaan Shah,Montville SS,101131,20241018
+Bronx,Ziyi Chen,Ridge ZC,101142,Christopher Correia,Horace Greeley CC,101082,20241018
+Bronx,Dash Gilrain-Lennon,St Luke's DG,101146,Connor Chau,Summit CC,100341,20241018
+Bronx,Sameer Kandra,Ridge SK,100581,Patrick Liu,Cary Acad PL,100385,20241018
+Bronx,Aaron Choi,Northern Valley AC,100299,Sahaj Chahal,Walt Whitman SC,100598,20241018
+Bronx,Carson Mueller,Immaculate Heart CM,100039,Owen Black,Fordham Prep OB,101065,20241018
+Bronx,Izzie Chang,Brearley IC,100524,Ansh Shamdasani,Montville AS,100286,20241018
+Bronx,Noah Perry,Lexington NP,100251,Amandeep Manda,Ridge AM,101138,20241018
+Bronx,Daniel Park,King DP,101097,Angelina Zhang,Unionville AZ,101164,20241018
+Bronx,Adeena Naeem,Harrison AN,100206,David Adelowo,Newark Science DA,100839,20241018
+Bronx,Madeline Schleifman,Summit MS,101161,Madeleine De Leon-Wagner,Immaculate Heart MD,100041,20241018
+Bronx,Noah Arthur,Concord Carlisle NA,100538,Andrew Wu,Lexington AW,100248,20241018
+Bronx,Flynn Williams,Harrison FW,100207,Allison Liu,Lexington AL,100247,20241018
+Bronx,Emma Sobel,Immaculate Heart ES,100040,Lillian Yang,Lexington LY,101113,20241018
+Bronx,Shona Kumar,Livingston SK,100255,Ansh Shamdasani,Montville AS,100286,20241018
+Bronx,Jason Jiang,La Salle JJ,100557,Michael Meng (Lawrenceville),Lawrenceville MM,100563,20241018
+Bronx,Meera Shah,Ridge MS,100580,Adeena Naeem,Harrison AN,100206,20241018
+Bronx,Christopher Correia,Horace Greeley CC,101082,Kenneth Lu,Lexington KL,100565,20241018
+Bronx,Yash Kandanuru,Germantown YK,101068,James Hathcock,University JH,101165,20241018
+Bronx,Emma Tan,Lake Highland Prep ET,100239,Emma Lin,Stuyvesant ELi,101152,20241018
+Bronx,Ezana Haile,Lakeville South EH,100243,Toby Hou,Lawrenceville TH,100564,20241018
+Bronx,Gabriel Whangbo-Olvera,Durham GW,100179,Angelina Zhang,Unionville AZ,101164,20241018
+Bronx,Ruby Aldape,Summit RA,101162,Rani Green,Poly Prep Country Day RG,100321,20241018
+Bronx,Ziyi Chen,Ridge ZC,101142,Alexandra Mitchell,Montville AM,100573,20241018
+Bronx,Micah Byron-Smarra,Waring MB,100122,Himnish Koul,Ridge HK,101139,20241018
+Bronx,Ethan Wu,Mountain Lakes EW,100575,Arin Lee,Chapin AL,101052,20241018
+Bronx,Allison Liu,Lexington AL,100247,Chloe Shao,Memorial CS,100268,20241018
+Bronx,Andrew Wu,Lexington AW,100248,Arnav Bhatia,Greenwich AB,101069,20241018
+Bronx,Sameer Kandra,Ridge SK,100581,Nicolette Huff,Immaculate Heart NH,100043,20241018
+Bronx,Chidvilas Gurram,Acton-Boxborough CG,100127,Samaya Lohani,Montville SL,101130,20241018
+Bronx,Princeden Hom,Stuyvesant PH,100589,Barclay Blair,Success Academy HSLA-BROOKLYN BB,100340,20241018
+Bronx,Bryan Fu,Mercer Island HSD BF,101123,Jeffrey Tvedt,Syosset JT,100342,20241018
+Bronx,Amandeep Manda,Ridge AM,101138,Evelyn Lifton,Stuyvesant EL,101151,20241018
+Bronx,Aditya Shetty,Southlake Carroll AS,100337,Andrew Xu,East Chapel Hill AX,100182,20241018
+Bronx,David Adelowo,Newark Science DA,100839,Ruby Simon,Sehome RS,100329,20241018
+Bronx,Ashley Lourenco,Newark Science AL,100838,Daniel Zheng,Stuyvesant DZ,100588,20241018
+Bronx,Izzy Lee,Brearley IL,100150,Savan Boxer,Boston Latin SB,100523,20241018
+Bronx,Rishabh Handa,Millburn RH,100572,Lili Sella,Bronx Science LS,101047,20241018
+Bronx,Renee Ding,Millburn RD,101126,Shaan Shah,Montville SS,101131,20241018
+Bronx,Hayul (Ellie) Kim,Northern Valley HK,100300,Anya Pathak,Edgemont AP,100183,20241018
+Bronx,Meddy Ma,Strake Jesuit  MM,100492,Atharv Gandhi,Harrison AGa,100205,20241018
+Bronx,Jad Vicente,BASIS Scottsdale JV,101042,Eve Parrott,Livingston EP,100568,20241018
+Bronx,Vin Wiemelt,Meadow Glen VW,101119,Samuel Chen,Bronx Science SC,101048,20241018
+Bronx,Jack Gessner,Harrison JG,100209,Salma Gheith,Horace Greeley SG,100034,20241018
+Bronx,Madeline Schleifman,Summit MS,101161,Cindy Tang,Lexington CT,100249,20241018
+Bronx,Erin Jia,Memorial EJ,100269,Sophie O'Brien,Hunter SO,100229,20241018
+Bronx,Jessica Katz,Scarsdale JK,100585,Akshaj Nandigam,Lawrenceville AN,101105,20241018
+Bronx,Connor Chau,Summit CC,100341,Noah Perry,Lexington NP,100251,20241018
+Bronx,Noah Arthur,Concord Carlisle NA,100538,Galvin Chen,Stuyvesant GC,101154,20241018
+Bronx,Wendy Sun,Isidore Newman WS,101096,Owen Black,Fordham Prep OB,101065,20241018
+Bronx,Chupeng Gui,Lake Highland Prep CG,100238,Nina Cardenas,Cypress Bay NC,101056,20241018
+Bronx,Flynn Williams,Harrison FW,100207,Mufei Yu,Stuyvesant MY,101156,20241018
+Bronx,Ayan Mahajan,Wheatley AM,100370,Maurya Srivastava,Collegiate MS,101053,20241018
+Bronx,Reese Potash,Harrison RP,100796,Alexis Qian,Stuyvesant AQ,101149,20241018
+Bronx,Ajay Krishnan,Acton-Boxborough AK,100126,Omar Obeidat,Lexington OO,100252,20241018
+Bronx,Mirei Saneyoshi,Lexington MS,100250,Brooke Schiano-Gonzalez,Harrison BS,101076,20241018
+Bronx,Priya Aggarwal,Durham PA,101059,Jack Borman,Harrison JB,100208,20241018
+Bronx,Maxwell Mao,Millburn MM,100278,Jiya Jolly,Isidore Newman JJ,100231,20241018
+Bronx,Lydia Aklilu,Garland LA,100020,Aaron Choi,Northern Valley AC,100299,20241018
+Bronx,Andy Miani,Horace Greeley AM,100033,Daniel Park,King DP,101097,20241018
+Bronx,Dash Gilrain-Lennon,St Luke's DG,101146,Kiren Sitwala,Stuyvesant KS,101155,20241018
+Bronx,Patrick Liu,Cary Acad PL,100385,Emma Sobel,Immaculate Heart ES,100040,20241018
+Bronx,Leyi Han,Millburn LH,100571,Grace Chen,Lexington GC,101111,20241018
+Bronx,Chloe Wolf,American Heritage Broward CW,100135,Izzie Chang,Brearley IC,100524,20241018
+Bronx,Shirin Sadoughi,Edgemont SS,100184,Carson Mueller,Immaculate Heart CM,100039,20241018
+Bronx,Saket Reddyjargu,Horace Greeley SR,100035,Russell Huber,Isidore Newman RH,101094,20241018
+Bronx,Adrienne Wang,Village AW,100358,Beverly Kang,Harrison BK,101075,20241018
+Bronx,Sam Elichman,Isidore Newman SE,100232,Yuna Lee,Stuyvesant YL,101158,20241018
+Bronx,Neel Aparanji,Lake Highland Prep NA,100241,Sherine Liu,Village SL,100360,20241018
+Bronx,Neel Kannambadi,Acton-Boxborough NK,100129,Sahaj Chahal,Walt Whitman SC,100598,20241018
+Bronx,Max Gu,Memorial MG,100270,Jaylen Hilario-Peralta,Berkeley Carroll JH,100149,20241018
+Bronx,Ellie Mak,Stuyvesant EM,101153,Shashi Uppuluri,Edgemont SU,100185,20241018
+Bronx,Xavier Phillip,La Salle XP,100558,Anyaa Sachdev,Half Hollow Hills HS East AS,101071,20241018
+Bronx,Lillian Yang,Lexington LY,101113,Seth Parker,Calvert Hall SP,101050,20241018
+Bronx,Timothy Jiang,Brophy TJ,100010,Veronica Zhang,Vestavia Hills VZ,100357,20241018
+Bronx,Theodore Bernstein,Hunter TB,101086,Jonathan Mundukottackal,King JM,101098,20241018
+Bronx,Andrew Gaffin,Harrison AG,100204,Andrew Brandt,Isidore Newman AB,100435,20241018
+Bronx,Isaac Love,Flintridge Prep IL,100016,Dylan Carey,Isidore Newman DC,100436,20241018
+Bronx,Lula Wang,Greenwich LW,100420,Felicity Zhang,Concord Carlisle FZ,100166,20241018
+Bronx,Sage Stanley,Cypress Bay SS,100540,Madeleine De Leon-Wagner,Immaculate Heart MD,100041,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Chloe Zhou,Germantown CZ,100201,20241018
+Bronx,Maurya Srivastava,Collegiate MS,101053,Arnav Bhatia,Greenwich AB,101069,20241018
+Bronx,Sophie O'Brien,Hunter SO,100229,Neel Kannambadi,Acton-Boxborough NK,100129,20241018
+Bronx,Amandeep Manda,Ridge AM,101138,Savan Boxer,Boston Latin SB,100523,20241018
+Bronx,Andrew Xu,East Chapel Hill AX,100182,Jiya Jolly,Isidore Newman JJ,100231,20241018
+Bronx,Brooke Schiano-Gonzalez,Harrison BS,101076,Vin Wiemelt,Meadow Glen VW,101119,20241018
+Bronx,Toby Hou,Lawrenceville TH,100564,Neel Aparanji,Lake Highland Prep NA,100241,20241018
+Bronx,Max Gu,Memorial MG,100270,Emma Tan,Lake Highland Prep ET,100239,20241018
+Bronx,Veronica Zhang,Vestavia Hills VZ,100357,Dash Gilrain-Lennon,St Luke's DG,101146,20241018
+Bronx,Rani Green,Poly Prep Country Day RG,100321,Yash Kandanuru,Germantown YK,101068,20241018
+Bronx,Grace Chen,Lexington GC,101111,Ziyi Chen,Ridge ZC,101142,20241018
+Bronx,Priya Aggarwal,Durham PA,101059,Shona Kumar,Livingston SK,100255,20241018
+Bronx,Michael Meng (Lawrenceville),Lawrenceville MM,100563,Izzie Chang,Brearley IC,100524,20241018
+Bronx,Chloe Wolf,American Heritage Broward CW,100135,Sage Stanley,Cypress Bay SS,100540,20241018
+Bronx,Jack Borman,Harrison JB,100208,Mirei Saneyoshi,Lexington MS,100250,20241018
+Bronx,Beverly Kang,Harrison BK,101075,Seth Parker,Calvert Hall SP,101050,20241018
+Bronx,Ajay Krishnan,Acton-Boxborough AK,100126,Emma Lin,Stuyvesant ELi,101152,20241018
+Bronx,Dylan Carey,Isidore Newman DC,100436,Cindy Tang,Lexington CT,100249,20241018
+Bronx,Leyi Han,Millburn LH,100571,Madeleine De Leon-Wagner,Immaculate Heart MD,100041,20241018
+Bronx,Lillian Yang,Lexington LY,101113,Theodore Bernstein,Hunter TB,101086,20241018
+Bronx,Chloe Shao,Memorial CS,100268,Izzy Lee,Brearley IL,100150,20241018
+Bronx,Patrick Liu,Cary Acad PL,100385,Daniel Park,King DP,101097,20241018
+Bronx,Ruby Simon,Sehome RS,100329,Alexandra Mitchell,Montville AM,100573,20241018
+Bronx,Connor Chau,Summit CC,100341,Galvin Chen,Stuyvesant GC,101154,20241018
+Bronx,Arin Lee,Chapin AL,101052,Wendy Sun,Isidore Newman WS,101096,20241018
+Bronx,James Hathcock,University JH,101165,Andrew Wu,Lexington AW,100248,20241018
+Bronx,Jack Gessner,Harrison JG,100209,Sahaj Chahal,Walt Whitman SC,100598,20241018
+Bronx,Ashley Lourenco,Newark Science AL,100838,Aaron Choi,Northern Valley AC,100299,20241018
+Bronx,Ruby Aldape,Summit RA,101162,Barclay Blair,Success Academy HSLA-BROOKLYN BB,100340,20241018
+Bronx,Noah Perry,Lexington NP,100251,Andy Miani,Horace Greeley AM,100033,20241018
+Bronx,Isaac Love,Flintridge Prep IL,100016,Angelina Zhang,Unionville AZ,101164,20241018
+Bronx,Ayan Mahajan,Wheatley AM,100370,Shirin Sadoughi,Edgemont SS,100184,20241018
+Bronx,Evelyn Lifton,Stuyvesant EL,101151,Chupeng Gui,Lake Highland Prep CG,100238,20241018
+Bronx,Nicolette Huff,Immaculate Heart NH,100043,Renee Ding,Millburn RD,101126,20241018
+Bronx,Bryan Fu,Mercer Island HSD BF,101123,Owen Black,Fordham Prep OB,101065,20241018
+Bronx,Hayul (Ellie) Kim,Northern Valley HK,100300,Noah Arthur,Concord Carlisle NA,100538,20241018
+Bronx,Alexis Qian,Stuyvesant AQ,101149,Nina Cardenas,Cypress Bay NC,101056,20241018
+Bronx,Reese Potash,Harrison RP,100796,Shaan Shah,Montville SS,101131,20241018
+Bronx,Lili Sella,Bronx Science LS,101047,Samaya Lohani,Montville SL,101130,20241018
+Bronx,Salma Gheith,Horace Greeley SG,100034,Yuna Lee,Stuyvesant YL,101158,20241018
+Bronx,Chloe Zhou,Germantown CZ,100201,Ansh Shamdasani,Montville AS,100286,20241018
+Bronx,Adeena Naeem,Harrison AN,100206,Lydia Aklilu,Garland LA,100020,20241018
+Bronx,Gabriel Whangbo-Olvera,Durham GW,100179,Samuel Chen,Bronx Science SC,101048,20241018
+Bronx,Meera Shah,Ridge MS,100580,Jad Vicente,BASIS Scottsdale JV,101042,20241018
+Bronx,Himnish Koul,Ridge HK,101139,Princeden Hom,Stuyvesant PH,100589,20241018
+Bronx,Ezana Haile,Lakeville South EH,100243,Lula Wang,Greenwich LW,100420,20241018
+Bronx,Timothy Jiang,Brophy TJ,100010,Emma Sobel,Immaculate Heart ES,100040,20241018
+Bronx,Jason Jiang,La Salle JJ,100557,Eve Parrott,Livingston EP,100568,20241018
+Bronx,Jaylen Hilario-Peralta,Berkeley Carroll JH,100149,Jeffrey Tvedt,Syosset JT,100342,20241018
+Bronx,Ellie Mak,Stuyvesant EM,101153,Carson Mueller,Immaculate Heart CM,100039,20241018
+Bronx,Sherine Liu,Village SL,100360,Russell Huber,Isidore Newman RH,101094,20241018
+Bronx,Shashi Uppuluri,Edgemont SU,100185,Jonathan Mundukottackal,King JM,101098,20241018
+Bronx,Micah Byron-Smarra,Waring MB,100122,Xavier Phillip,La Salle XP,100558,20241018
+Bronx,Atharv Gandhi,Harrison AGa,100205,Allison Liu,Lexington AL,100247,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Omar Obeidat,Lexington OO,100252,20241018
+Bronx,Felicity Zhang,Concord Carlisle FZ,100166,Anya Pathak,Edgemont AP,100183,20241018
+Bronx,Erin Jia,Memorial EJ,100269,David Adelowo,Newark Science DA,100839,20241018
+Bronx,Adrienne Wang,Village AW,100358,Chidvilas Gurram,Acton-Boxborough CG,100127,20241018
+Bronx,Akshaj Nandigam,Lawrenceville AN,101105,Saket Reddyjargu,Horace Greeley SR,100035,20241018
+Bronx,Rishabh Handa,Millburn RH,100572,Sam Elichman,Isidore Newman SE,100232,20241018
+Bronx,Flynn Williams,Harrison FW,100207,Madeline Schleifman,Summit MS,101161,20241018
+Bronx,Ethan Wu,Mountain Lakes EW,100575,Mufei Yu,Stuyvesant MY,101156,20241018
+Bronx,Andrew Brandt,Isidore Newman AB,100435,Maxwell Mao,Millburn MM,100278,20241018
+Bronx,Jessica Katz,Scarsdale JK,100585,Christopher Correia,Horace Greeley CC,101082,20241018
+Bronx,Sameer Kandra,Ridge SK,100581,Anyaa Sachdev,Half Hollow Hills HS East AS,101071,20241018
+Bronx,Meddy Ma,Strake Jesuit  MM,100492,Aditya Shetty,Southlake Carroll AS,100337,20241018
+Bronx,Andrew Gaffin,Harrison AG,100204,Kenneth Lu,Lexington KL,100565,20241018
+Bronx,Sam Elichman,Isidore Newman SE,100232,Izzy Lee,Brearley IL,100150,20241018
+Bronx,Priya Aggarwal,Durham PA,101059,Ethan Wu,Mountain Lakes EW,100575,20241018
+Bronx,Yash Kandanuru,Germantown YK,101068,Arin Lee,Chapin AL,101052,20241018
+Bronx,Emma Sobel,Immaculate Heart ES,100040,Theodore Bernstein,Hunter TB,101086,20241018
+Bronx,Daniel Zheng,Stuyvesant DZ,100588,Gabriel Whangbo-Olvera,Durham GW,100179,20241018
+Bronx,Jason Jiang,La Salle JJ,100557,Chidvilas Gurram,Acton-Boxborough CG,100127,20241018
+Bronx,Ansh Shamdasani,Montville AS,100286,Saket Reddyjargu,Horace Greeley SR,100035,20241018
+Bronx,Xavier Phillip,La Salle XP,100558,Nicolette Huff,Immaculate Heart NH,100043,20241018
+Bronx,Kenneth Lu,Lexington KL,100565,Ruby Aldape,Summit RA,101162,20241018
+Bronx,Omar Obeidat,Lexington OO,100252,Shaan Shah,Montville SS,101131,20241018
+Bronx,Jiya Jolly,Isidore Newman JJ,100231,Yuna Lee,Stuyvesant YL,101158,20241018
+Bronx,Veronica Zhang,Vestavia Hills VZ,100357,Emma Lin,Stuyvesant ELi,101152,20241018
+Bronx,Max Gu,Memorial MG,100270,Ellie Mak,Stuyvesant EM,101153,20241018
+Bronx,Michael Meng (Lawrenceville),Lawrenceville MM,100563,Ruby Simon,Sehome RS,100329,20241018
+Bronx,Jaylen Hilario-Peralta,Berkeley Carroll JH,100149,Arnav Bhatia,Greenwich AB,101069,20241018
+Bronx,Daniel Park,King DP,101097,Samaya Lohani,Montville SL,101130,20241018
+Bronx,Micah Byron-Smarra,Waring MB,100122,Felicity Zhang,Concord Carlisle FZ,100166,20241018
+Bronx,Ziyi Chen,Ridge ZC,101142,Ayan Mahajan,Wheatley AM,100370,20241018
+Bronx,Rani Green,Poly Prep Country Day RG,100321,Reese Potash,Harrison RP,100796,20241018
+Bronx,Timothy Jiang,Brophy TJ,100010,Savan Boxer,Boston Latin SB,100523,20241018
+Bronx,Chloe Zhou,Germantown CZ,100201,Madeline Schleifman,Summit MS,101161,20241018
+Bronx,Maxwell Mao,Millburn MM,100278,Kiren Sitwala,Stuyvesant KS,101155,20241018
+Bronx,Dylan Carey,Isidore Newman DC,100436,Jonathan Mundukottackal,King JM,101098,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Amandeep Manda,Ridge AM,101138,20241018
+Bronx,Allison Liu,Lexington AL,100247,Adrienne Wang,Village AW,100358,20241018
+Bronx,Erin Jia,Memorial EJ,100269,Cindy Tang,Lexington CT,100249,20241018
+Bronx,Meera Shah,Ridge MS,100580,Sherine Liu,Village SL,100360,20241018
+Bronx,Jeffrey Tvedt,Syosset JT,100342,Emma Tan,Lake Highland Prep ET,100239,20241018
+Bronx,Izzie Chang,Brearley IC,100524,Alexandra Mitchell,Montville AM,100573,20241018
+Bronx,Patrick Liu,Cary Acad PL,100385,Christopher Correia,Horace Greeley CC,101082,20241018
+Bronx,Ashley Lourenco,Newark Science AL,100838,Andrew Brandt,Isidore Newman AB,100435,20241018
+Bronx,Beverly Kang,Harrison BK,101075,Rishabh Handa,Millburn RH,100572,20241018
+Bronx,Jack Gessner,Harrison JG,100209,Leyi Han,Millburn LH,100571,20241018
+Bronx,Sage Stanley,Cypress Bay SS,100540,Lillian Yang,Lexington LY,101113,20241018
+Bronx,Madeleine De Leon-Wagner,Immaculate Heart MD,100041,James Hathcock,University JH,101165,20241018
+Bronx,Jad Vicente,BASIS Scottsdale JV,101042,Russell Huber,Isidore Newman RH,101094,20241018
+Bronx,Toby Hou,Lawrenceville TH,100564,Shirin Sadoughi,Edgemont SS,100184,20241018
+Bronx,Sameer Kandra,Ridge SK,100581,Isaac Love,Flintridge Prep IL,100016,20241018
+Bronx,Andy Miani,Horace Greeley AM,100033,Lili Sella,Bronx Science LS,101047,20241018
+Bronx,Ezana Haile,Lakeville South EH,100243,Akshaj Nandigam,Lawrenceville AN,101105,20241018
+Bronx,Jack Borman,Harrison JB,100208,Connor Chau,Summit CC,100341,20241018
+Bronx,Andrew Gaffin,Harrison AG,100204,Bryan Fu,Mercer Island HSD BF,101123,20241018
+Bronx,Lula Wang,Greenwich LW,100420,Evelyn Lifton,Stuyvesant EL,101151,20241018
+Bronx,Andrew Xu,East Chapel Hill AX,100182,Mufei Yu,Stuyvesant MY,101156,20241018
+Bronx,Adeena Naeem,Harrison AN,100206,Andrew Wu,Lexington AW,100248,20241018
+Bronx,Sophie O'Brien,Hunter SO,100229,Owen Black,Fordham Prep OB,101065,20241018
+Bronx,David Adelowo,Newark Science DA,100839,Samuel Chen,Bronx Science SC,101048,20241018
+Bronx,Neel Aparanji,Lake Highland Prep NA,100241,Barclay Blair,Success Academy HSLA-BROOKLYN BB,100340,20241018
+Bronx,Shona Kumar,Livingston SK,100255,Maurya Srivastava,Collegiate MS,101053,20241018
+Bronx,Aditya Shetty,Southlake Carroll AS,100337,Nina Cardenas,Cypress Bay NC,101056,20241018
+Bronx,Mirei Saneyoshi,Lexington MS,100250,Chloe Shao,Memorial CS,100268,20241018
+Bronx,Atharv Gandhi,Harrison AGa,100205,Carson Mueller,Immaculate Heart CM,100039,20241018
+Bronx,Sahaj Chahal,Walt Whitman SC,100598,Shashi Uppuluri,Edgemont SU,100185,20241018
+Bronx,Dash Gilrain-Lennon,St Luke's DG,101146,Himnish Koul,Ridge HK,101139,20241018
+Bronx,Aaron Choi,Northern Valley AC,100299,Renee Ding,Millburn RD,101126,20241018
+Bronx,Eve Parrott,Livingston EP,100568,Chupeng Gui,Lake Highland Prep CG,100238,20241018
+Bronx,Anya Pathak,Edgemont AP,100183,Wendy Sun,Isidore Newman WS,101096,20241018
+Bronx,Brooke Schiano-Gonzalez,Harrison BS,101076,Hayul (Ellie) Kim,Northern Valley HK,100300,20241018
+Bronx,Meddy Ma,Strake Jesuit  MM,100492,Ajay Krishnan,Acton-Boxborough AK,100126,20241018
+Bronx,Grace Chen,Lexington GC,101111,Flynn Williams,Harrison FW,100207,20241018
+Bronx,Neel Kannambadi,Acton-Boxborough NK,100129,Princeden Hom,Stuyvesant PH,100589,20241018
+Bronx,Vin Wiemelt,Meadow Glen VW,101119,Noah Perry,Lexington NP,100251,20241018
+Bronx,Jessica Katz,Scarsdale JK,100585,Noah Arthur,Concord Carlisle NA,100538,20241018
+Bronx,Lydia Aklilu,Garland LA,100020,Alexis Qian,Stuyvesant AQ,101149,20241018
+Bronx,Chloe Wolf,American Heritage Broward CW,100135,Angelina Zhang,Unionville AZ,101164,20241018
+Bronx,Seth Parker,Calvert Hall SP,101050,Galvin Chen,Stuyvesant GC,101154,20241018
+Bronx,Shona Kumar,Livingston SK,100255,Jeffrey Tvedt,Syosset JT,100342,20241018
+Bronx,Saket Reddyjargu,Horace Greeley SR,100035,Daniel Park,King DP,101097,20241018
+Bronx,Izzy Lee,Brearley IL,100150,Salma Gheith,Horace Greeley SG,100034,20241018
+Bronx,Chloe Zhou,Germantown CZ,100201,Ziyi Chen,Ridge ZC,101142,20241018
+Bronx,Aaron Choi,Northern Valley AC,100299,Mufei Yu,Stuyvesant MY,101156,20241018
+Bronx,Meddy Ma,Strake Jesuit  MM,100492,Evelyn Lifton,Stuyvesant EL,101151,20241018
+Bronx,Priya Aggarwal,Durham PA,101059,Theodore Bernstein,Hunter TB,101086,20241018
+Bronx,Jack Gessner,Harrison JG,100209,Micah Byron-Smarra,Waring MB,100122,20241018
+Bronx,Princeden Hom,Stuyvesant PH,100589,Amandeep Manda,Ridge AM,101138,20241018
+Bronx,Izzie Chang,Brearley IC,100524,Ellie Mak,Stuyvesant EM,101153,20241018
+Bronx,Yuna Lee,Stuyvesant YL,101158,Jonathan Mundukottackal,King JM,101098,20241018
+Bronx,Ajay Krishnan,Acton-Boxborough AK,100126,Lillian Yang,Lexington LY,101113,20241018
+Bronx,Chidvilas Gurram,Acton-Boxborough CG,100127,Seth Parker,Calvert Hall SP,101050,20241018
+Bronx,Neel Aparanji,Lake Highland Prep NA,100241,Rani Green,Poly Prep Country Day RG,100321,20241018
+Bronx,Allison Liu,Lexington AL,100247,Andy Miani,Horace Greeley AM,100033,20241018
+Bronx,Russell Huber,Isidore Newman RH,101094,Sage Stanley,Cypress Bay SS,100540,20241018
+Bronx,Meera Shah,Ridge MS,100580,Wendy Sun,Isidore Newman WS,101096,20241018
+Bronx,Christopher Correia,Horace Greeley CC,101082,Savan Boxer,Boston Latin SB,100523,20241018
+Bronx,Cindy Tang,Lexington CT,100249,Xavier Phillip,La Salle XP,100558,20241018
+Bronx,Emma Lin,Stuyvesant ELi,101152,Nicolette Huff,Immaculate Heart NH,100043,20241018
+Bronx,Alexandra Mitchell,Montville AM,100573,Samuel Chen,Bronx Science SC,101048,20241018
+Bronx,Himnish Koul,Ridge HK,101139,Chupeng Gui,Lake Highland Prep CG,100238,20241018
+Bronx,Eve Parrott,Livingston EP,100568,Andrew Gaffin,Harrison AG,100204,20241018
+Bronx,Toby Hou,Lawrenceville TH,100564,Vin Wiemelt,Meadow Glen VW,101119,20241018
+Bronx,Aditya Shetty,Southlake Carroll AS,100337,Hayul (Ellie) Kim,Northern Valley HK,100300,20241018
+Bronx,Ansh Shamdasani,Montville AS,100286,Jaylen Hilario-Peralta,Berkeley Carroll JH,100149,20241018
+Bronx,Jad Vicente,BASIS Scottsdale JV,101042,Ruby Aldape,Summit RA,101162,20241018
+Bronx,Michael Meng (Lawrenceville),Lawrenceville MM,100563,Arnav Bhatia,Greenwich AB,101069,20241018
+Bronx,Dash Gilrain-Lennon,St Luke's DG,101146,Jessica Katz,Scarsdale JK,100585,20241018
+Bronx,David Adelowo,Newark Science DA,100839,Bryan Fu,Mercer Island HSD BF,101123,20241018
+Bronx,Emma Sobel,Immaculate Heart ES,100040,Kenneth Lu,Lexington KL,100565,20241018
+Bronx,Timothy Jiang,Brophy TJ,100010,Andrew Xu,East Chapel Hill AX,100182,20241018
+Bronx,Adeena Naeem,Harrison AN,100206,Max Gu,Memorial MG,100270,20241018
+Bronx,Lydia Aklilu,Garland LA,100020,Reese Potash,Harrison RP,100796,20241018
+Bronx,Akshaj Nandigam,Lawrenceville AN,101105,Grace Chen,Lexington GC,101111,20241018
+Bronx,Ruby Simon,Sehome RS,100329,Maurya Srivastava,Collegiate MS,101053,20241018
+Bronx,Chloe Shao,Memorial CS,100268,Shirin Sadoughi,Edgemont SS,100184,20241018
+Bronx,Felicity Zhang,Concord Carlisle FZ,100166,Jiya Jolly,Isidore Newman JJ,100231,20241018
+Bronx,Sophie O'Brien,Hunter SO,100229,Gabriel Whangbo-Olvera,Durham GW,100179,20241018
+Bronx,Jack Borman,Harrison JB,100208,Arin Lee,Chapin AL,101052,20241018
+Bronx,Rishabh Handa,Millburn RH,100572,Anya Pathak,Edgemont AP,100183,20241018
+Bronx,Daniel Zheng,Stuyvesant DZ,100588,Madeleine De Leon-Wagner,Immaculate Heart MD,100041,20241018
+Bronx,Sahaj Chahal,Walt Whitman SC,100598,Barclay Blair,Success Academy HSLA-BROOKLYN BB,100340,20241018
+Bronx,Lili Sella,Bronx Science LS,101047,Chloe Wolf,American Heritage Broward CW,100135,20241018
+Bronx,Erin Jia,Memorial EJ,100269,Sameer Kandra,Ridge SK,100581,20241018
+Bronx,Andrew Brandt,Isidore Newman AB,100435,Ethan Wu,Mountain Lakes EW,100575,20241018
+Bronx,Noah Perry,Lexington NP,100251,Alexis Qian,Stuyvesant AQ,101149,20241018
+Bronx,Connor Chau,Summit CC,100341,Nina Cardenas,Cypress Bay NC,101056,20241018
+Bronx,Lula Wang,Greenwich LW,100420,Maxwell Mao,Millburn MM,100278,20241018
+Bronx,Adrienne Wang,Village AW,100358,Carson Mueller,Immaculate Heart CM,100039,20241018
+Bronx,Jason Jiang,La Salle JJ,100557,Dylan Carey,Isidore Newman DC,100436,20241018
+Bronx,Anyaa Sachdev,Half Hollow Hills HS East AS,101071,Kiren Sitwala,Stuyvesant KS,101155,20241018
+Bronx,Leyi Han,Millburn LH,100571,Yash Kandanuru,Germantown YK,101068,20241018
+Bronx,Sherine Liu,Village SL,100360,Shaan Shah,Montville SS,101131,20241018
+Bronx,Atharv Gandhi,Harrison AGa,100205,Owen Black,Fordham Prep OB,101065,20241018
+Bronx,Veronica Zhang,Vestavia Hills VZ,100357,Andrew Wu,Lexington AW,100248,20241018
+Bronx,Neel Kannambadi,Acton-Boxborough NK,100129,Renee Ding,Millburn RD,101126,20241018
+Bronx,Galvin Chen,Stuyvesant GC,101154,Flynn Williams,Harrison FW,100207,20241018
+Bronx,Emma Tan,Lake Highland Prep ET,100239,Noah Arthur,Concord Carlisle NA,100538,20241018
+Bronx,Omar Obeidat,Lexington OO,100252,Sam Elichman,Isidore Newman SE,100232,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Patrick Liu,Cary Acad PL,100385,20241018
+Bronx,Mirei Saneyoshi,Lexington MS,100250,James Hathcock,University JH,101165,20241018
+Bronx,Ezana Haile,Lakeville South EH,100243,Ayan Mahajan,Wheatley AM,100370,20241018
+Bronx,Angelina Zhang,Unionville AZ,101164,Madeline Schleifman,Summit MS,101161,20241018
+Bronx,Ashley Lourenco,Newark Science AL,100838,Shashi Uppuluri,Edgemont SU,100185,20241018
+Bronx,Isaac Love,Flintridge Prep IL,100016,Brooke Schiano-Gonzalez,Harrison BS,101076,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Ashley Lourenco,Newark Science AL,100838,20241018
+Bronx,Ashley Lourenco,Newark Science AL,100838,Reese Potash,Harrison RP,100796,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Timothy Jiang,Brophy TJ,100010,20241018
+Bronx,Reese Potash,Harrison RP,100796,Jessica Katz,Scarsdale JK,100585,20241018
+Bronx,Timothy Jiang,Brophy TJ,100010,Andrew Brandt,Isidore Newman AB,100435,20241018
+Bronx,Ashley Lourenco,Newark Science AL,100838,Priya Aggarwal,Durham PA,101059,20241018
+Bronx,Jessica Katz,Scarsdale JK,100585,Erin Jia,Memorial EJ,100269,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Dash Gilrain-Lennon,St Luke's DG,101146,20241018
+Bronx,Timothy Jiang,Brophy TJ,100010,Mirei Saneyoshi,Lexington MS,100250,20241018
+Bronx,Ashley Lourenco,Newark Science AL,100838,Aditya Shetty,Southlake Carroll AS,100337,20241018
+Bronx,Priya Aggarwal,Durham PA,101059,Jack Gessner,Harrison JG,100209,20241018
+Bronx,Andrew Brandt,Isidore Newman AB,100435,Jack Borman,Harrison JB,100208,20241018
+Bronx,Meddy Ma,Strake Jesuit  MM,100492,Rishabh Handa,Millburn RH,100572,20241018
+Bronx,Micah Byron-Smarra,Waring MB,100122,Reese Potash,Harrison RP,100796,20241018
+Bronx,Erin Jia,Memorial EJ,100269,Lydia Aklilu,Garland LA,100020,20241018
+Bronx,Kelvin Meng,Strake Jesuit  KM,100490,Chloe Shao,Memorial CS,100268,20241018
+Bronx,Timothy Jiang,Brophy TJ,100010,Chloe Wolf,American Heritage Broward CW,100135,20241018
+Bronx,Ashley Lourenco,Newark Science AL,100838,Neel Aparanji,Lake Highland Prep NA,100241,20241018
+Bronx,Jack Gessner,Harrison JG,100209,Veronica Zhang,Vestavia Hills VZ,100357,20241018
+Bronx,Jack Borman,Harrison JB,100208,Ziyi Chen,Ridge ZC,101142,20241018
+Bronx,Meddy Ma,Strake Jesuit  MM,100492,Rani Green,Poly Prep Country Day RG,100321,20241018
+Bronx,Reese Potash,Harrison RP,100796,Meera Shah,Ridge MS,100580,20241018
+Bronx,Micah Byron-Smarra,Waring MB,100122,Ajay Krishnan,Acton-Boxborough AK,100126,20241018
+Bronx,Rishabh Handa,Millburn RH,100572,Andrew Gaffin,Harrison AG,100204,20241018
+Bronx,Andrew Brandt,Isidore Newman AB,100435,Neel Kannambadi,Acton-Boxborough NK,100129,20241018
+Bronx,Priya Aggarwal,Durham PA,101059,Toby Hou,Lawrenceville TH,100564,20241018
+Bronx,Aditya Shetty,Southlake Carroll AS,100337,Lula Wang,Greenwich LW,100420,20241018
+Bronx,Mirei Saneyoshi,Lexington MS,100250,Daniel Zheng,Stuyvesant DZ,100588,20241018
+Bronx,Dash Gilrain-Lennon,St Luke's DG,101146,Ezana Haile,Lakeville South EH,100243,20241018
+Bronx,Isaac Love,Flintridge Prep IL,100016,Jessica Katz,Scarsdale JK,100585,20241018
+Bronx,Jessica Katz,Scarsdale JK,100585,David Adelowo,Newark Science DA,100839,20241018
+Bronx,Dash Gilrain-Lennon,St Luke's DG,101146,Jason Jiang,La Salle JJ,100557,20241018
+Bronx,Daniel Zheng,Stuyvesant DZ,100588,Vin Wiemelt,Meadow Glen VW,101119,20241018
+Bronx,Aditya Shetty,Southlake Carroll AS,100337,Adeena Naeem,Harrison AN,100206,20241018
+Bronx,Toby Hou,Lawrenceville TH,100564,Aaron Choi,Northern Valley AC,100299,20241018
+Bronx,Andrew Brandt,Isidore Newman AB,100435,Salma Gheith,Horace Greeley SG,100034,20241018
+Bronx,Rishabh Handa,Millburn RH,100572,Brooke Schiano-Gonzalez,Harrison BS,101076,20241018
+Bronx,Ajay Krishnan,Acton-Boxborough AK,100126,Leyi Han,Millburn LH,100571,20241018
+Bronx,Reese Potash,Harrison RP,100796,Grace Chen,Lexington GC,101111,20241018
+Bronx,Rani Green,Poly Prep Country Day RG,100321,Adrienne Wang,Village AW,100358,20241018
+Bronx,Ziyi Chen,Ridge ZC,101142,Shona Kumar,Livingston SK,100255,20241018
+Bronx,Veronica Zhang,Vestavia Hills VZ,100357,Ayan Mahajan,Wheatley AM,100370,20241018
+Bronx,Neel Aparanji,Lake Highland Prep NA,100241,Sameer Kandra,Ridge SK,100581,20241018
+Bronx,Chloe Wolf,American Heritage Broward CW,100135,Patrick Liu,Cary Acad PL,100385,20241018
+Bronx,Chloe Shao,Memorial CS,100268,Xavier Phillip,La Salle XP,100558,20241018
+Bronx,Lydia Aklilu,Garland LA,100020,Michael Meng (Lawrenceville),Lawrenceville MM,100563,20241018
