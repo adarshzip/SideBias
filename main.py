@@ -123,7 +123,7 @@ def roundDict(tournament, date):
             votes = votes.lower()
             
             try:
-                margin, result = tuple(result[1:-2].split())
+                margin, result = tuple(result.split())
             except:
                 continue
             
@@ -455,6 +455,27 @@ add_tournament("NanoNagle", 4, 20241012)
 add_tournament("DTA", 2, 20241012)
 add_tournament("JWPatterson", 1, 20241018)
 add_tournament("Bronx", 8, 20241018)
+add_tournament("Heart of Texas", 8, 20241025)
+add_tournament("Meadows", 4, 20241025)
+add_tournament("Florida", 4, 20241101)
+add_tournament("Apple Valley", 8, 20241108)
+add_tournament("Damus", 2, 20241108)
+add_tournament("Badgerland", 1, 20241115)
+add_tournament("Laird", 1, 20241115)
+add_tournament("Glenbrooks", 8, 20241123)
+add_tournament("Princeton", 2, 20241206)
+add_tournament("TOCDigital1", 2, 20241206)
+add_tournament("Alta", 2, 20241206)
+add_tournament("LonghornClassic", 4, 20241206)
+add_tournament("LaCostaCanyon", 1, 20241206)
+add_tournament("Cypress", 1, 20241206)
+add_tournament("Ridge", 2, 20241206)
+add_tournament("IsidoreNewman", 2, 20241213)
+add_tournament("DowlingCatholic", 1, 20241220)
+add_tournament("Blake", 8, 20241213)
+add_tournament("CollegePrep", 4, 20241220)
+add_tournament("Strake", 2, 20241220)
+
 
 negPercent = negWs/rounds
 negElimPercent = elimNegWs/elims
