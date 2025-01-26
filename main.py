@@ -4,6 +4,7 @@ import numpy as np
 import math
 from skelo.model.elo import EloEstimator
 from skelo.model.glicko2 import Glicko2Estimator
+import re
 
 '''
 Notes:
@@ -29,6 +30,7 @@ roundCSV = "tournament,winner_name,winner_school,winner_id,loser_name,loser_scho
 unifiedEntriesDict = {}
 unifiedByName = {}
 playerid = 100000
+    
 
 def entry_dict(tournament):
     # glicko2 dict
@@ -40,22 +42,22 @@ def entry_dict(tournament):
     outputDict = {}
     
     file_location = glob.glob("Documents/Debate/SideBias/" + tournament + "/*.csv")[0]
-    if not file_location:
-        raise FileNotFoundError(f"No CSV file found in folder:" + str(file_location))
-    
     teams = pd.read_csv(file_location, delimiter=",", header=0, usecols=[2, 3])
     teams = teams.to_numpy()
-    
     for team in teams:
+        
         playerid += 1
         school, name = team[1], team[0]
+        # name conflicts
         if name == "Michael Meng":
             if "Lawrenceville" in school:
                 name = "Michael Meng (Lawrenceville)"
             else:
                 name = "Michael Meng (Strake)"
+                
         outputDict[school] = [name, school]
         
+    # new names
         if school not in unifiedEntriesDict:
             unifiedEntriesDict[school] = [name, school, playerid]
             unifiedByName[name] = school
@@ -442,8 +444,11 @@ def write_to_csv(elosList):
         
     with open("Documents/Debate/SideBias/LDRankings.csv", "w") as fp:
         fp.write(add[:-1])
-        
+    
+
+
 # third parameter is for time/weekend. just has to be sequential.
+### """
 add_tournament("Loyola", 4, 20240830)
 add_tournament("SeasonOpener", 4, 20240907)
 add_tournament("Grapevine", 4, 20240913)
@@ -471,11 +476,26 @@ add_tournament("LaCostaCanyon", 1, 20241206)
 add_tournament("Cypress", 1, 20241206)
 add_tournament("Ridge", 2, 20241206)
 add_tournament("IsidoreNewman", 2, 20241213)
-add_tournament("DowlingCatholic", 1, 20241220)
-add_tournament("Blake", 8, 20241213)
+add_tournament("DowlingCatholic", 1, 20241213)
+### """
+
+#JF
+add_tournament("Blake", 8, 20241220)
 add_tournament("CollegePrep", 4, 20241220)
 add_tournament("Strake", 2, 20241220)
-
+add_tournament("Newark", 4, 20250110)
+add_tournament("ArizonaState", 1, 20250110)
+add_tournament("ChurchillClassic", 2, 20250110)
+add_tournament("PugetSound", 2, 20250110)
+add_tournament("Sunvitational", 1, 20250110)
+add_tournament("NorthAllegheny", 1, 20250110)
+add_tournament("Peninsula", 4, 20250110)
+add_tournament("HarvardWestlake", 8, 20250117)
+add_tournament("Durham", 2, 20250117)
+add_tournament("MountVernon", 1, 20250117)
+add_tournament("UniversityOfHouston", 2, 20250117)
+add_tournament("Lexington", 4, 20250117)
+add_tournament("Lewis&Clark", 1, 20250117)
 
 negPercent = negWs/rounds
 negElimPercent = elimNegWs/elims
