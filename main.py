@@ -448,7 +448,7 @@ def write_to_csv(elosList):
 
 
 # third parameter is for time/weekend. just has to be sequential.
-"""
+# """
 add_tournament("Loyola", 4, 20240830)
 add_tournament("SeasonOpener", 4, 20240907)
 add_tournament("Grapevine", 4, 20240913)
@@ -477,7 +477,7 @@ add_tournament("Cypress", 1, 20241206)
 add_tournament("Ridge", 2, 20241206)
 add_tournament("IsidoreNewman", 2, 20241213)
 add_tournament("DowlingCatholic", 1, 20241213)
-"""
+# """
 
 #JF
 add_tournament("Blake", 8, 20241220)
