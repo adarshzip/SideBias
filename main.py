@@ -448,7 +448,7 @@ def write_to_csv(elosList):
 
 
 # third parameter is for time/weekend. just has to be sequential.
-### """
+"""
 add_tournament("Loyola", 4, 20240830)
 add_tournament("SeasonOpener", 4, 20240907)
 add_tournament("Grapevine", 4, 20240913)
@@ -477,7 +477,7 @@ add_tournament("Cypress", 1, 20241206)
 add_tournament("Ridge", 2, 20241206)
 add_tournament("IsidoreNewman", 2, 20241213)
 add_tournament("DowlingCatholic", 1, 20241213)
-### """
+"""
 
 #JF
 add_tournament("Blake", 8, 20241220)
@@ -496,6 +496,21 @@ add_tournament("MountVernon", 1, 20250117)
 add_tournament("UniversityOfHouston", 2, 20250117)
 add_tournament("Lexington", 4, 20250117)
 add_tournament("Lewis&Clark", 1, 20250117)
+add_tournament("Cavalier", 2, 20250117)
+add_tournament("Emory", 8, 20250124)
+add_tournament("Pennsbury", 2, 20250201)
+add_tournament("GoldenDesert", 2, 20250201)
+add_tournament("Columbia", 1, 20250201)
+add_tournament("UpperStClair", 1, 20250208)
+add_tournament("UniversityOfPennsylvania", 1, 20250208)
+add_tournament("Stanford", 4, 20250208)
+add_tournament("Harvard", 8, 20250215)
+add_tournament("Berkeley", 8, 20250215)
+add_tournament("TOCDigital2", 4, 20250222)
+add_tournament("MillardNorth", 1, 20250228)
+add_tournament("USC", 2, 20250228)
+add_tournament("TOCDigital3", 4, 20250307)
+
 
 negPercent = negWs/rounds
 negElimPercent = elimNegWs/elims
